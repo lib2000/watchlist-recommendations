@@ -13,12 +13,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q110556821",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt5875444": {
   "director": "James Hawes",
   "cast": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Jonathan Pryce, Hugo Weaving",
-  "awards": "확인 필요",
+  "awards": "BAFTA 최소 4회 · 에미상 최소 3회",
   "country": "미국, 영국",
   "length": "34편 · 45분",
   "commentary": "조직의 낙오자들을 따라가는 스파이물로, 화려한 액션 대신 런던의 칙칙한 사무실과 거리를 건조하게 담는다. 블랙 코미디와 긴장감을 오가는 톤이 특징이다.",
@@ -31,7 +32,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q104880809",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Slow_Horses",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0118250": {
   "director": "Colin Lane",
@@ -46,7 +48,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q7712568",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt2379308": {
   "director": "확인 필요",
@@ -63,7 +66,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q1315951",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt7078180": {
   "director": "이시다테 다이치",
@@ -80,7 +84,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q57390937",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt22248376": {
   "director": "사이토 케이이치로",
@@ -97,7 +102,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q115792176",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt9335498": {
   "director": "소토자키 하루오",
@@ -114,7 +120,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q63350570",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt21209876": {
   "director": "확인 필요",
@@ -131,7 +138,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q112898063",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt26743760": {
   "director": "확인 필요",
@@ -148,12 +156,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q116787865",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt7772588": {
   "director": "로널드 D. 무어",
   "cast": "Joel Kinnaman, Michael Dorman, Sarah Jones, Shantel VanSanten, Jodi Balfour",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 2회",
   "country": "미국",
   "length": "50편",
   "commentary": "소련이 먼저 달에 착륙한 대체 역사를 다루며, 시즌마다 10년씩 건너뛰는 구성을 취한다. NASA 다큐 같은 사실적 미술과 인물 드라마가 결합된다.",
@@ -166,7 +175,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q54958409",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/For_All_Mankind_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt11680642": {
   "director": "확인 필요",
@@ -183,12 +193,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q109639866",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt11280740": {
   "director": "벤 스틸러, Aoife McArdle",
   "cast": "Adam Scott, Zach Cherry, Britt Lower, Tramell Tillman, Jen Tullock",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 10회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "19편 · 48.5분",
   "commentary": "대칭 구도, 텅 빈 복도, 차가운 형광등 등 기업 공간을 미니멀하게 연출해 불안을 만든다. 직장 풍자와 심리 스릴러를 오가는 서늘한 톤이다.",
@@ -204,12 +215,13 @@
    "The title sequences for seasons 1 and 2 won the Primetime Emmy for Outstanding Title Design in 2022 and 2025, respectively.",
    "It won two awards at the Creative Arts Emmy Awards: Outstanding Title Design and Outstanding Music Composition for a Series (Original Dramatic Score)."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Severance_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Severance",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2788316": {
   "director": "저스틴 마크스, Rachel Kondo",
   "cast": "Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai, Tadanobu Asano, Takehiro Hira",
-  "awards": "에미상 18회",
+  "awards": "에미상 최소 18회 · 골든글로브 최소 4회 · BAFTA 최소 2회 · 피버디상 최소 1회",
   "country": "캐나다, 미국",
   "length": "10편 · 61.5분",
   "commentary": "17세기 일본을 정교한 미술과 자연광 위주의 촬영으로 재현하고, 대사 대부분을 일본어로 처리했다. 정치극의 긴장감을 장중하게 끌고 간다.",
@@ -225,12 +237,13 @@
    "In 2024, Shōgun became the first Japanese-language series to win a Primetime Emmy Award for Outstanding Drama Series, with its first season winning 18 categories at the 76th Primetime Emmy Awards and 76th Primetime Creative Arts Emmy Awards, setting a new record as the most awarded single season of television in Emmy history.",
    "Anna Sawai and Hiroyuki Sanada's performances won them Primetime Emmy Awards for Outstanding Lead Actress in a Drama Series and Outstanding Lead Actor in a Drama Series, respectively."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt11126994": {
   "director": "Pascal Charrue, Arnaud Delord",
   "cast": "확인 필요",
-  "awards": "에미상 2회 · 애니상 수상",
+  "awards": "애니상 최소 16회 · 에미상 최소 8회",
   "country": "미국, 프랑스",
   "length": "18편",
   "commentary": "프랑스 스튜디오 Fortiche의 회화적 2D/3D 혼합 작화가 독보적이다. 두 자매의 비극을 중심으로 계급 갈등을 그린 성숙한 톤이다.",
@@ -245,7 +258,8 @@
    "The series won two Primetime Emmy Awards for Outstanding Animated Program, as well as the Annie Award for Best General Audience Animated Television Broadcast Production.",
    "Vi and Caitlyn consummate their relationship in the second season with an on-screen sex scene, which won an Annie Award for Storyboarding."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Arcane_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Arcane_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt13366604": {
   "director": "확인 필요",
@@ -263,12 +277,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q111982471",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt23649128": {
   "director": "세스 로건, Alex Gregory, Peter Huyck",
   "cast": "Catherine O'Hara, Ike Barinholtz, Chase Sui Wonders, Kathryn Hahn",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 11회 · 골든글로브 최소 4회 · BAFTA 최소 1회",
   "country": "미국",
   "length": "10편",
   "commentary": "롱테이크를 적극 활용한 촬영으로 할리우드 스튜디오의 혼란을 실시간처럼 담는다. 영화 산업 풍자를 빠른 템포의 소동극으로 풀어낸다.",
@@ -281,7 +296,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q125185497",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/The_Studio_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt5753856": {
   "director": "바란 보 오다르",
@@ -299,7 +315,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q28443710",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0346314": {
   "director": "확인 필요",
@@ -316,7 +333,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q1776982",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt37532356": {
   "director": "안도 마사히로",
@@ -331,7 +349,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q135221317",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt12590266": {
   "director": "이마이시 히로유키",
@@ -348,7 +367,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q96677963",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt3592032": {
   "director": "유아사 마사아키",
@@ -365,7 +385,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q115221233",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0804484": {
   "director": "루퍼트 샌더스, 데이비드 S. 고이어, 록샌 도슨",
@@ -383,7 +404,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q56281007",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt7441658": {
   "director": "확인 필요",
@@ -400,7 +422,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q70331950",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt8101850": {
   "director": "Hisko Hulsing",
@@ -418,7 +441,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q55636530",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt7472896": {
   "director": "확인 필요",
@@ -436,7 +460,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q48780195",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt1839578": {
   "director": "크리스 피셔, 프레드 토이, 스티븐 서직",
@@ -454,7 +479,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q564345",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt36517689": {
   "director": "Moko-chan",
@@ -469,7 +495,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q126095177",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt1628033": {
   "director": "Andy Wilman",
@@ -486,7 +513,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q33162",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Top_Gear_(2002_TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt10827146": {
   "director": "확인 필요",
@@ -501,7 +529,8 @@
   ],
   "wikidata": null,
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt2699128": {
   "director": "미미 레더",
@@ -519,7 +548,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q16468818",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt8291284": {
   "director": "빈첸초 나탈리, Alrick Riley",
@@ -537,12 +567,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q106742665",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt33332385": {
   "director": "케이티 디폴드",
   "cast": "Matthew Rhys, Kate O'Flynn, Kevin Carroll, Dale Dickey, Kingston Rumi Southwick",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 14회",
   "country": "미국",
   "length": "10편 · 45분",
   "commentary": "확인 필요",
@@ -555,12 +586,13 @@
   "award_notes": [
    "For its first season, it received a record 14 wins at the 78th Primetime Emmy Awards, including for Outstanding Comedy Series, acting wins for Rhys, O'Flynn, Root, and Betty Gilpin, as well as wins for directing and writing."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Widow%27s_Bay"
+  "awards_src": "https://en.wikipedia.org/wiki/Widow%27s_Bay",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt9253284": {
   "director": "수재나 화이트, 토비 헤인스, Benjamin Caron",
   "cast": "Diego Luna, Kyle Soller, Adria Arjona, Stellan Skarsgård, Fiona Shaw",
-  "awards": "피버디상 수상",
+  "awards": "BAFTA 최소 1회 · 에미상 최소 1회",
   "country": "미국",
   "length": "24편 · 47.5분",
   "commentary": "스타워즈를 현실적 첩보·정치 스릴러로 재해석했고, 실제 로케이션과 세트를 많이 써 질감을 살렸다. 혁명의 탄생을 진지한 톤으로 그린다.",
@@ -573,7 +605,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q60462338",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Andor"
+  "awards_src": "https://en.wikipedia.org/wiki/Andor",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2560140": {
   "director": "확인 필요",
@@ -590,7 +623,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q22126305",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt10541088": {
   "director": "확인 필요",
@@ -608,7 +642,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q107233698",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt1910272": {
   "director": "Kanji Wakabayashi",
@@ -625,7 +660,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q20590069",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0280240": {
   "director": "가타야마 가즈요시",
@@ -642,7 +678,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q974411",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0213327": {
   "director": "진 로덴베리",
@@ -658,7 +695,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q512977",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0094535": {
   "director": "Ed Bye",
@@ -679,7 +717,8 @@
    "In 1994 an episode from the sixth series, \"Gunmen of the Apocalypse\", won an International Emmy Award in the Popular Arts category.",
    "When the show won an International Emmy Award in 1994, Naylor's attempts to have the cast invited to a party thrown by the BBC proved futile when they objected to Craig Charles' and Danny John-Jules' inclusion, claiming they were \"fire risks\"."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Red_Dwarf"
+  "awards_src": "https://en.wikipedia.org/wiki/Red_Dwarf",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt2069441": {
   "director": "확인 필요",
@@ -694,12 +733,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q62034895",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt22202452": {
   "director": "빈스 길리건",
   "cast": "Rhea Seehorn, Karolina Wydra, Carlos-Manuel Vesga",
-  "awards": "에미상 6회",
+  "awards": "에미상 최소 5회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "9편",
   "commentary": "빈스 길리건의 SF로, 깔끔하고 정돈된 화면과 느린 긴장감이 특징이다. 행복해진 인류 속 홀로 남은 주인공의 고립을 그린다.",
@@ -714,7 +754,8 @@
   "award_notes": [
    "It won six Primetime Emmy Awards, including  Outstanding Lead Actress in a Drama Series for Seehorn and Outstanding Writing for a Drama Series for Gilligan, while also being nominated for Outstanding Drama Series."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Pluribus_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Pluribus_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10233448": {
   "director": "확인 필요",
@@ -731,12 +772,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q64063188",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt2356777": {
   "director": "캐리 후쿠나가",
   "cast": "Matthew McConaughey, Woody Harrelson, Michelle Monaghan, Michael Potts, Tory Kittles",
-  "awards": "에미상 수상",
+  "awards": "BAFTA 최소 1회 · 에미상 최소 1회",
   "country": "미국",
   "length": "30편 · 60분",
   "commentary": "루이지애나의 황량한 풍경을 아름답게 담았다. 두 형사의 대화와 철학적 독백이 음울한 톤을 만든다.",
@@ -749,7 +791,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q7847400",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/True_Detective"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_True_Detective",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt8688814": {
   "director": "지안카를로 볼피",
@@ -766,7 +809,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q56063967",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt21056886": {
   "director": "Joseph Bennett, Charles Huettner",
@@ -784,12 +828,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q123110427",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt28093628": {
   "director": "그레그 대니얼스",
   "cast": "확인 필요",
-  "awards": "확인 필요",
+  "awards": "애니상 최소 4회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "10편",
   "commentary": "확인 필요",
@@ -799,7 +844,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q130971959",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Common_Side_Effects",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt11147852": {
   "director": "확인 필요",
@@ -814,7 +860,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q96516868",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt2250192": {
   "director": "Manabu Ono, 이토 토모히코",
@@ -829,12 +876,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q63348493",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt13622982": {
   "director": "확인 필요",
   "cast": "확인 필요",
-  "awards": "확인 필요",
+  "awards": "애니상 최소 2회 · 베네치아 영화제 최소 1회 · 에미상 최소 1회",
   "country": "일본, 미국",
   "length": "18편",
   "commentary": "일본 애니 스튜디오들이 스타워즈를 각자 해석한 단편 앤솔러지다. 스튜디오마다 화풍과 톤이 크게 다르다.",
@@ -846,7 +894,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q104161600",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Star_Wars:_Visions",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt12063450": {
   "director": "Masahiko Murata",
@@ -861,12 +910,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q98836118",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt9561862": {
   "director": "데이비드 핀처, Joshua Donen",
   "cast": "확인 필요",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 17회 · 애니상 최소 8회",
   "country": "미국",
   "length": "26편 · 11.3분",
   "commentary": "에피소드마다 다른 스튜디오와 스타일(포토리얼 3D, 2D 등)을 쓰는 앤솔러지다. 짧고 강렬한 SF 단편 모음이다.",
@@ -880,12 +930,13 @@
   "award_notes": [
    "It won several accolades from the Primetime Creative Arts Emmy Awards."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Love,_Death_%26_Robots"
+  "awards_src": "https://en.wikipedia.org/wiki/Love,_Death_%26_Robots",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2575988": {
   "director": "Dave Krinsky, John Altschuler, 마이크 저지",
   "cast": "Thomas Middleditch, T.J. Miller, Josh Brener, Martin Starr, Kumail Nanjiani",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 3회",
   "country": "미국",
   "length": "53편 · 30분",
   "commentary": "실리콘밸리 스타트업 문화를 풍자한 HBO 코미디로, 업계의 허세를 날카롭게 비꼰다.",
@@ -898,12 +949,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q15956708",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt8111088": {
   "director": "로버트 로드리게스, 칼 웨더스, 브라이스 댈러스 하워드",
   "cast": "Pedro Pascal, Katee Sackhoff",
-  "awards": "에미상 수상 · BAFTA 수상 · 휴고상 3회",
+  "awards": "에미상 최소 15회 · 애니상 최소 1회",
   "country": "미국",
   "length": "24편 · 42.5분",
   "commentary": "ILM의 스테이지크래프트(LED 가상 세트)를 처음 본격 도입했다. 서부극과 사무라이 영화의 형식을 빌린 에피소드식 구성이다.",
@@ -916,7 +968,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q56876444",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Mandalorian"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_The_Mandalorian",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0084988": {
   "director": "리처드 커티스, 로언 앳킨슨",
@@ -934,7 +987,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q49019",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt10574236": {
   "director": "헬렌 셰이버, Lucy Tcherniak, 제레미 포데스와",
@@ -952,7 +1006,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q85803299",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0388629": {
   "director": "오다 에이이치로",
@@ -969,7 +1024,8 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q710324",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "x:Dave": {
   "director": "확인 필요",
@@ -984,7 +1040,8 @@
   ],
   "wikidata": null,
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "x:Appleseed (시리즈)": {
   "director": "확인 필요",
@@ -999,7 +1056,8 @@
   ],
   "wikidata": null,
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "x:Star Wars (프랜차이즈)": {
   "director": "확인 필요",
@@ -1014,7 +1072,8 @@
   ],
   "wikidata": null,
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt3230854": {
   "director": "Terry McDonough, 브렉 아이즈너, 로버트 리버먼",
@@ -1032,7 +1091,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q18389644",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt11646832": {
   "director": "확인 필요",
@@ -1048,12 +1108,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q107016644",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0306414": {
   "director": "데이비드 사이먼",
   "cast": "Dominic West, John Doman, Idris Elba, Frankie Faison, Lawrence Gilliard Jr.",
-  "awards": "피버디상 수상",
+  "awards": "피버디상 최소 1회",
   "country": "미국",
   "length": "60편 · 60분",
   "commentary": "볼티모어를 마약·항만·정치·학교·언론으로 시즌마다 넓혀가며 도시 전체를 해부한다. 음악과 기교를 절제한 다큐적 연출이 특징이다.",
@@ -1068,7 +1129,8 @@
   "award_notes": [
    "The series also won the ASCAP Award, Artios Award, and Peabody Award for season 2."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Wire"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Wire",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt13354972": {
   "director": "찰스 유",
@@ -1084,7 +1146,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q124032079",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt28454008": {
   "director": "와타나베 신이치로",
@@ -1103,12 +1166,13 @@
   "award_notes": [
    "In 2026, the series won \"Best Original Anime\" at the 10th Crunchyroll Anime Awards."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Lazarus_(Japanese_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Lazarus_(Japanese_TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt0903747": {
   "director": "미셸 매클래런, Félix Enríquez Alcalá, 데이비드 슬레이드",
   "cast": "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt",
-  "awards": "에미상 수상 · 피버디상 2회",
+  "awards": "에미상 최소 16회 · 골든글로브 최소 2회 · 피버디상 최소 2회 · BAFTA 최소 1회",
   "country": "미국",
   "length": "62편",
   "commentary": "뉴멕시코 사막의 강렬한 색감과 과감한 앵글로 평범한 교사의 타락을 그린다. 서부극 같은 긴장감과 비극적 톤이 특징이다.",
@@ -1125,12 +1189,13 @@
    "It also won two Peabody Awards, one in 2008 and one in 2013.",
    "For his portrayal of Walter White, Bryan Cranston won the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series four times, in 2008, 2009, 2010, and 2014."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Breaking_Bad"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Breaking_Bad",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0804503": {
   "director": "매슈 와이너",
   "cast": "Jon Hamm, Elisabeth Moss, Vincent Kartheiser, January Jones, Christina Hendricks",
-  "awards": "에미상 16회 · 골든글로브 16회",
+  "awards": "에미상 최소 16회 · 골든글로브 최소 5회 · BAFTA 최소 2회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "92편 · 47분",
   "commentary": "1960년대 광고업계를 정교한 미술과 의상, 절제된 연출로 재현했다. 말보다 침묵과 시선으로 인물의 공허를 드러낸다.",
@@ -1146,12 +1211,13 @@
    "It won several awards, including 16 Emmys and 5 Golden Globes.",
    "Award highlights include winning the Primetime Emmy Award for Outstanding Drama Series four times, for each of its first four seasons; its fourth win tied the record for serial dramas set earlier by Hill Street Blues (1981–84), L.A."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Mad_Men"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Mad_Men",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt7660850": {
   "director": "윌 페럴, 애덤 매케이",
   "cast": "Hiam Abbass, Nicholas Braun, Brian Cox, Kieran Culkin, Peter Friedman",
-  "awards": "에미상 4회 · 골든글로브 수상 · BAFTA 4회",
+  "awards": "에미상 최소 16회 · 골든글로브 최소 9회 · BAFTA 최소 4회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "39편",
   "commentary": "핸드헬드 카메라와 급작스러운 줌으로 다큐처럼 재벌가를 엿보게 한다. 셰익스피어 비극과 신랄한 블랙 코미디가 공존한다.",
@@ -1168,12 +1234,13 @@
    "Culkin, Cox and Strong each won Golden Globe Award for Best Actor – Television Series Drama for their performances, and Culkin and Strong won the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series.",
    "Snook and Macfadyen both also won Emmy Awards: for Lead Actress and Supporting Actor respectively, with Macfadyen winning twice."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Succession_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Succession",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt5687612": {
   "director": "피비 월러브리지",
   "cast": "Sian Clifford, Andrew Scott",
-  "awards": "BAFTA 수상 · 골든글로브 수상",
+  "awards": "에미상 최소 6회 · BAFTA 최소 2회 · 골든글로브 최소 2회 · 피버디상 최소 1회",
   "country": "영국",
   "length": "12편",
   "commentary": "주인공이 카메라를 향해 말을 거는 '제4의 벽 깨기'가 핵심 형식이다. 웃음 뒤에 슬픔과 죄책감을 숨긴 짧고 날카로운 코미디다.",
@@ -1188,12 +1255,13 @@
   "award_notes": [
    "The series received the Golden Globe Awards for Best Television Series and Best Actress for Waller-Bridge, and a nomination for Scott."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Fleabag"
+  "awards_src": "https://en.wikipedia.org/wiki/Fleabag",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0944947": {
   "director": "조지 R. R. 마틴, 데이비드 베니오프, 데이비드 너터",
   "cast": "List of Game of Thrones characters",
-  "awards": "에미상 59회",
+  "awards": "에미상 최소 58회 · BAFTA 최소 2회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "73편 · 66분",
   "commentary": "대규모 로케이션과 전투 장면으로 TV 판타지의 스케일을 바꿨다. 정치 음모와 잔혹한 반전이 특징이다.",
@@ -1210,12 +1278,13 @@
    "The show won eight Creative Arts Emmy Awards for visual effects, winning for Outstanding Special Visual Effects in seven consecutive seasons.",
    "Creative director Angus Wall and his collaborators received the 2011 Primetime Emmy Award for Main Title Design for the sequence, which depicts a three-dimensional map of the series's fictional world."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Game_of_Thrones",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1759761": {
   "director": "아르만도 이아누치",
   "cast": "Julia Louis-Dreyfus, Anna Chlumsky, Tony Hale, Reid Scott, Timothy Simons",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 17회",
   "country": "미국",
   "length": "65편",
   "commentary": "미국 부통령실을 다룬 정치 풍자극으로, 쉴 새 없는 욕설 섞인 대사와 핸드헬드 촬영이 특징이다.",
@@ -1228,12 +1297,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q74801",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Veep",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0496424": {
   "director": "론 마이클스",
   "cast": "Tracy Morgan, Jane Krakowski, Jack McBrayer, Scott Adsit, Judah Friedlander",
-  "awards": "에미상 6회 · 골든글로브 수상 · 피버디상 수상",
+  "awards": "에미상 최소 14회 · 골든글로브 최소 6회",
   "country": "미국",
   "length": "138편 · 21분",
   "commentary": "단일 카메라로 찍은 빠른 템포의 코미디로, 한 장면에 농담을 촘촘히 채운다. 방송가를 풍자한다.",
@@ -1250,12 +1320,13 @@
    "Capping its critically successful first season, 30 Rock won the Primetime Emmy Award for Outstanding Comedy Series and Elaine Stritch was awarded Outstanding Guest Actress in a Comedy Series in September 2007 for her work as a guest actress in the season one finale episode, \"Hiatus\".",
    "Alec Baldwin received the Golden Globe Award for Best Actor in a Television Series – Musical or Comedy in 2007."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/30_Rock"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_30_Rock",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0264235": {
   "director": "래리 데이비드",
   "cast": "Jeff Garlin, Cheryl Hines, Susie Essman, J. B. Smoove",
-  "awards": "골든글로브 수상",
+  "awards": "에미상 최소 2회",
   "country": "미국",
   "length": "120편",
   "commentary": "대본 개요만 두고 배우들이 즉흥으로 연기하는 페이크 다큐풍 코미디다. 사소한 사회적 불편을 집요하게 파고든다.",
@@ -1270,12 +1341,13 @@
   "award_notes": [
    "It won the 2002 Golden Globe Award for Best Television Series – Musical or Comedy."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Curb_Your_Enthusiasm",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt4288182": {
   "director": "도널드 글러버, 무라이 히로",
   "cast": "Brian Tyree Henry, LaKeith Stanfield, Zazie Beetz",
-  "awards": "골든글로브 수상 · 에미상 수상",
+  "awards": "에미상 최소 7회 · 골든글로브 최소 2회 · 피버디상 최소 2회",
   "country": "미국",
   "length": "41편",
   "commentary": "애틀랜타 힙합 신을 배경으로 초현실적이고 장르를 넘나드는 에피소드를 선보인다. 흑인 미국인의 삶을 기묘하고 날카롭게 그린다.",
@@ -1288,12 +1360,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q23016639",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Atlanta_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Atlanta_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0386676": {
   "director": "B. J. 노백, 민디 케일링, 그레그 대니얼스",
   "cast": "Steve Carell, Rainn Wilson, John Krasinski, Jenna Fischer, B. J. Novak",
-  "awards": "피버디상 수상 · 골든글로브 수상 · 에미상 수상",
+  "awards": "에미상 최소 5회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "204편 · 22분",
   "commentary": "영국판처럼 단일 카메라와 웃음소리 없는 모큐멘터리 형식이다. 직장 내 어색함을 따뜻한 정서로 풀었다.",
@@ -1310,12 +1383,13 @@
    "Despite this, Carell won a Golden Globe Award for Best Actor in a Television Comedy or Musical in 2006.",
    "The series was also named the best TV series by the American Film Institute in 2006 and 2008, won two Screen Actors Guild Awards for Outstanding Performance by an Ensemble in a Comedy Series in 2006 and 2007 and won a Peabody Award in 2006."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Office_(American_TV_series)",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0367279": {
   "director": "론 하워드, 브라이언 그레이저",
   "cast": "Jason Bateman, Portia de Rossi, Will Arnett, Michael Cera, Alia Shawkat",
-  "awards": "에미상 6회 · 골든글로브 수상",
+  "awards": "에미상 최소 4회",
   "country": "미국",
   "length": "68편 · 21분",
   "commentary": "핸드헬드 촬영, 내레이션, 반복 개그를 겹겹이 쌓은 연속극형 코미디다. 몰락한 부자 가족을 풍자한다.",
@@ -1330,7 +1404,8 @@
   "award_notes": [
    "It won six Primetime Emmy Awards and a Golden Globe Award, and attracted a cult following."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Arrested_Development"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Arrested_Development",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1723816": {
   "director": "리나 더넘",
@@ -1348,12 +1423,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q618329",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0758745": {
   "director": "피터 버그",
   "cast": "Kyle Chandler, Connie Britton, Gaius Charles, Zach Gilford, Minka Kelly",
-  "awards": "에미상 수상 · 피버디상 수상",
+  "awards": "에미상 최소 3회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "76편 · 44분",
   "commentary": "핸드헬드 3대 카메라와 즉흥 연기로 텍사스 소도시를 다큐처럼 담았다. 풋볼을 매개로 공동체와 가족을 그린다.",
@@ -1369,12 +1445,13 @@
    "Chandler and Katims each won the Emmy in 2011.",
    "Friday Night Lights won a Peabody Award, three AFI awards, an Emmy Award for Outstanding Casting for a Drama Series, an ACE Eddie Award for editing, an NAACP Image Award for Outstanding Directing, a Television Critics Association Award, and has earned multiple Writers Guild of America nominations."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Friday_Night_Lights_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Friday_Night_Lights",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0248654": {
   "director": "앨런 볼",
   "cast": "Peter Krause, Michael C. Hall, Frances Conroy, Lauren Ambrose, Freddy Rodriguez",
-  "awards": "에미상 수상 · 피버디상 수상",
+  "awards": "에미상 최소 8회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "63편 · 60분",
   "commentary": "매 화 죽음으로 시작하는 형식의 장의사 가족 드라마다. 블랙 유머와 실존적 질문이 함께한다.",
@@ -1390,7 +1467,8 @@
    "The series' main theme, written by composer Thomas Newman, won a 2002 Emmy Award for Outstanding Main Title Theme Music and two Grammy Awards in 2003 for Best Instrumental Composition and Best Instrumental Arrangement.",
    "The series won a Peabody Award for general excellence in 2002 \"for its unsettling yet powerfully humane explorations of life and death\"."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Six_Feet_Under",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0290978": {
   "director": "스티븐 머천트, 리키 저베이스",
@@ -1412,12 +1490,13 @@
    "In 2004, the series won the Golden Globe Award for Best Television Series – Musical or Comedy, the first British comedy in 25 years to be nominated for a Golden Globe, and the first ever to win one.",
    "Gervais also received the Golden Globe Award for Best Actor – Television Series Musical or Comedy."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Office_(British_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Office_(British_TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt2149175": {
   "director": "Joe Weisberg",
   "cast": "Keri Russell, Matthew Rhys, Maximiliano Hernández, Holly Taylor, Keidrich Sellati",
-  "awards": "골든글로브 수상 · 에미상 수상 · 피버디상 수상",
+  "awards": "에미상 최소 4회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "75편",
   "commentary": "냉전기 미국에 잠입한 KGB 부부를 다룬 스파이극으로, 가정 드라마와 첩보가 겹친다.",
@@ -1434,12 +1513,13 @@
    "Margo Martindale twice won the Primetime Emmy Award for Outstanding Guest Actress in a Drama Series for her performances in the third and fourth seasons.",
    "The Americans won a rare second Peabody Award, \"for ending one of TV's best dramas with one of the television's best series finales\", becoming the first drama series since Breaking Bad to win two Peabody Awards during its run."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Americans"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Americans",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt11204260": {
   "director": "확인 필요",
   "cast": "Weruche Opia, Paapa Essiedu",
-  "awards": "BAFTA 수상",
+  "awards": "BAFTA 최소 5회 · 에미상 최소 2회",
   "country": "미국, 영국",
   "length": "12편",
   "commentary": "성폭력 이후의 기억과 회복을 비선형적·실험적 구성으로 그렸다.",
@@ -1454,7 +1534,8 @@
   "award_notes": [
    "The series won the BAFTA TV Awards for Best Mini-Series, Best Actress, Best Director: Drama, Best Writer: Drama and Best Editing: Fiction."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/I_May_Destroy_You"
+  "awards_src": "https://en.wikipedia.org/wiki/I_May_Destroy_You",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt7366338": {
   "director": "요한 렝크",
@@ -1472,12 +1553,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q48741246",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt4786824": {
   "director": "스티븐 돌드리, Philip Martin, 줄리언 재롤드",
   "cast": "Claire Foy, Matt Smith, Vanessa Kirby, Eileen Atkins, Jeremy Northam",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 14회 · 골든글로브 최소 8회 · BAFTA 최소 5회",
   "country": "미국, 영국",
   "length": "60편",
   "commentary": "영국 왕실을 대규모 제작비의 미술과 촬영으로 재현하고, 시즌마다 배우를 교체했다.",
@@ -1490,12 +1572,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q20707362",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Crown",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt13406094": {
   "director": "마이크 화이트",
   "cast": "Jennifer Coolidge, Natasha Rothwell, Jon Gries, below",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 16회 · 골든글로브 최소 2회",
   "country": "미국",
   "length": "21편",
   "commentary": "고급 리조트를 무대로 계급과 부를 풍자하는 '반풍자' 톤이며, 시즌마다 배경과 인물이 바뀐다.",
@@ -1508,7 +1591,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q106679014",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_White_Lotus",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0411008": {
   "director": "J. J. 에이브럼스, 잭 벤더, 스티븐 윌리엄스",
@@ -1530,7 +1614,8 @@
    "Capping its successful first season, Lost won the Emmy Award for Outstanding Drama Series and J.",
    "thumb|right|upright=0.9|For his portrayal of [[Ben Linus, Michael Emerson received many awards and nominations, including winning a Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series in 2009.]]\n\nIt was nominated for a Golden Globe Award for Best Television Drama Series three times (2005–2007), and it won the award in 2006."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Lost_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Lost_(TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt0434672": {
   "director": "마이클 레만, 마이클 패트릭 킹, 그렉 모톨라",
@@ -1548,12 +1633,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q478037",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0348914": {
   "director": "에드 비앙키, 데이비스 구겐하임",
   "cast": "Timothy Olyphant, Ian McShane, Molly Parker, Jim Beaver, Brad Dourif",
-  "awards": "에미상 8회",
+  "awards": "에미상 최소 8회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "36편 · 50분",
   "commentary": "1870년대 서부 마을을 셰익스피어풍 대사와 거친 욕설로 그린 서부극이다.",
@@ -1568,12 +1654,13 @@
   "award_notes": [
    "It also won eight Emmy Awards (in 28 nominations) and one Golden Globe."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Deadwood_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Deadwood_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2085059": {
   "director": "조 라이트, 존 힐코트, 팀 밴패튼",
   "cast": "존 햄, 로즈메리 디윗, 린지 덩컨, 조디 휘태커, 제시카 브라운 핀들리",
-  "awards": "에미상 2회",
+  "awards": "BAFTA 최소 4회 · 피버디상 최소 1회",
   "country": "영국",
   "length": "34편 · 64.5분",
   "commentary": "트와일라잇 존식 앤솔러지로, 기술이 낳는 디스토피아를 매 화 다른 이야기로 그린다.",
@@ -1589,12 +1676,13 @@
    "In November 2012, Black Mirror won Best TV Movie/Miniseries at the International Emmy Awards.",
    "Bandersnatch won two Emmys in 2019, including Outstanding Television Movie, making it the third consecutive win for Black Mirror in that category."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Black_Mirror"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Black_Mirror",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt3032476": {
   "director": "빈스 길리건, 피터 굴드, Thomas Schnauz",
   "cast": "Bob Odenkirk, Jonathan Banks, Rhea Seehorn, Patrick Fabian, Michael Mando",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 7회 · 피버디상 최소 2회",
   "country": "미국",
   "length": "63편 · 50.5분",
   "commentary": "브레이킹 배드의 프리퀄로, 정교한 구도와 느린 템포로 인물의 변화를 그린다.",
@@ -1609,12 +1697,13 @@
   "award_notes": [
    "Gould noted that over the course of Breaking Bad, there were several \"what ifs\" their team considered, such as if the show won a Primetime Emmy Award, or if people would buy \"Los Pollos Hermanos\" T-shirts."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Better_Call_Saul"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Better_Call_Saul",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0185906": {
   "director": "데이비드 릴런드, 토니 토, 데이비드 너터",
   "cast": "Cast and characters",
-  "awards": "골든글로브 수상 · 에미상 수상",
+  "awards": "에미상 최소 7회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "10편",
   "commentary": "2차대전 미군 이지 중대를 실제 증언을 곁들여 사실적으로 재현했다.",
@@ -1629,12 +1718,13 @@
   "award_notes": [
    "It also won the Golden Globe Award for Best Miniseries or Motion Picture Made for Television, American Film Institute Award for TV Movie or Miniseries of the Year, Producers Guild of America Award for Outstanding Producer of Long-Form Television, and the TCA Award for Outstanding Achievement in Movies, Miniseries, and Specials."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)"
+  "awards_src": "https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1981558": {
   "director": "피터 아텐시오",
   "cast": "확인 필요",
-  "awards": "에미상 2회 · 피버디상 수상",
+  "awards": "피버디상 최소 1회",
   "country": "미국",
   "length": "53편",
   "commentary": "인종과 대중문화를 다룬 스케치 코미디로, 영화 같은 연출의 짧은 콩트가 특징이다.",
@@ -1649,12 +1739,13 @@
    "Key & Peele won a Peabody Award and two Primetime Emmy Awards and has been nominated for various other awards, including Writers Guild Award, NAACP Image Award and 16 additional Primetime Emmy Awards in various categories.",
    "The series won a Peabody Award in 2013 \"for its stars and their creative team's inspired satirical riffs on our racially divided and racially conjoined culture\"."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Key_%26_Peele"
+  "awards_src": "https://en.wikipedia.org/wiki/Key_%26_Peele",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0239195": {
   "director": "Charlie Parsons, Jeff Probst, 마크 버넷",
   "cast": "Survivor contestants",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 7회",
   "country": "미국",
   "length": "722편 · 45분",
   "commentary": "무인도 생존 서바이벌 리얼리티의 원조 격으로, 투표와 전략이 핵심이다.",
@@ -1667,12 +1758,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q28856068",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Survivor_(American_TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1509004": {
   "director": "로라 던, 마이크 화이트",
   "cast": "Luke Wilson, Diane Ladd, Sarah Burns, Timm Sharp",
-  "awards": "골든글로브 수상",
+  "awards": "골든글로브 최소 1회",
   "country": "미국",
   "length": "18편 · 30분",
   "commentary": "직장과 자아를 다룬 HBO 코미디 드라마로, 섬세하고 쓸쓸한 톤이 특징이다.",
@@ -1687,12 +1779,13 @@
   "award_notes": [
    "In 2012, Dern won the Golden Globe Award for Best Actress – Television Series Musical or Comedy for her role in the series."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Enlightened_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Enlightened_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt3526078": {
   "director": "댄 레비, 유진 레비",
   "cast": "Eugene Levy, Catherine O'Hara, Daniel Levy, Annie Murphy, Jennifer Robertson",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 9회 · 골든글로브 최소 2회",
   "country": "캐나다",
   "length": "80편",
   "commentary": "몰락한 부자 가족의 시골 생활을 따뜻한 톤으로 그린 캐나다 시트콤이다.",
@@ -1705,12 +1798,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q17111973",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Schitt%27s_Creek"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Schitt's_Creek",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt31938062": {
   "director": "John Cameron, Damian Marcano, 존 웰스",
   "cast": "Noah Wyle, Tracy Ifeachor, Patrick Ball, Katherine LaNasa, Supriya Ganesh",
-  "awards": "에미상 11회",
+  "awards": "골든글로브 최소 2회 · 피버디상 최소 1회 · 에미상 최소 1회",
   "country": "미국",
   "length": "30편",
   "commentary": "응급실의 하루를 한 시즌에 걸쳐 거의 실시간으로 그린 의학 드라마다.",
@@ -1726,7 +1820,8 @@
    "The series has received several accolades, winning eleven awards at the Primetime Emmy Awards, including Outstanding Drama Series (two wins) and Outstanding Casting (two wins), along with acting wins for Wyle (two wins) and LaNasa (one win).",
    "Following its wins at the 77th Primetime Emmy Awards, global viewership nearly tripled compared to the prior week, marking the series's best ratings week since its finale, with a 142% increase in US audiences."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Pitt"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_The_Pitt",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0407362": {
   "director": "로널드 D. 무어, 글렌 A. 라슨",
@@ -1744,12 +1839,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q237072",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt1796960": {
   "director": "메러디스 스팀, 레슬리 링카 글래터, Michael Cuesta",
   "cast": "Claire Danes, Damian Lewis, Morena Baccarin, David Harewood, Diego Klattenhoff",
-  "awards": "골든글로브 수상 · 에미상 수상",
+  "awards": "에미상 최소 6회 · 골든글로브 최소 5회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "96편 · 55분",
   "commentary": "CIA 요원과 귀환 포로를 둘러싼 첩보 스릴러로, 9·11 이후 미국의 불안을 다룬다.",
@@ -1765,12 +1861,13 @@
    "It won several awards, including the 2011 and 2012 Golden Globe Award for Best Television Series – Drama for its first two seasons, and the 2012 Primetime Emmy Award for Outstanding Drama Series for its first season.",
    "Danes won the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series twice (from five nominations), and Lewis won the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series once (from two nominations)."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Homeland_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Homeland",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt7049682": {
   "director": "니콜 커셀",
   "cast": "Regina King, Don Johnson, Tim Blake Nelson, Yahya Abdul-Mateen II, Andrew Howard",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 11회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "9편 · 60분",
   "commentary": "원작 그래픽노블의 후속 이야기로, 인종 폭력의 역사를 다뤘다.",
@@ -1783,12 +1880,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q56153643",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Watchmen_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Watchmen_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt31806037": {
   "director": "필립 배런티니",
   "cast": "Ashley Walters, Faye Marsay, Mark Stanley, Christine Tremarco, Owen Cooper",
-  "awards": "에미상 수상 · 골든글로브 수상",
+  "awards": "에미상 최소 9회 · BAFTA 최소 6회 · 골든글로브 최소 4회 · 피버디상 최소 1회",
   "country": "영국",
   "length": "4편 · 60분",
   "commentary": "모든 에피소드를 하나의 연속 테이크로 촬영해 숨 막히는 현장감을 만든다.",
@@ -1804,12 +1902,13 @@
    "In 2025, Cooper won the Primetime Emmy Award for Outstanding Supporting Actor in a Limited or Anthology Series or Movie for his performance as teen murderer Jamie Miller, making him the youngest male winner in the history of the Primetime Emmy Awards.",
    "Cooper also won the Actor Award, Critics' Choice Award and Golden Globe Award, becoming the youngest actor to ever win four major television acting awards for a single performance and to achieve this feat for a single season of television."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Adolescence_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Adolescence_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1492966": {
   "director": "루이 C.K.",
   "cast": "Louis C.K.",
-  "awards": "에미상 수상",
+  "awards": "피버디상 최소 2회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "61편 · 23분",
   "commentary": "초현실, 풍자, 부조리 유머를 섞은 작가주의 코미디다.",
@@ -1825,12 +1924,13 @@
    "has received several Primetime Emmy Award nominations for his acting, writing, and directing and has won for Outstanding Writing for a Comedy Series at the 64th and 66th Primetime Emmy Awards.",
    "Leo won a Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series for her performance as Laurie."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Louie_(American_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Louie",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt11815682": {
   "director": "폴 W. 다운스, 젠 스타츠키, Lucia Aniello",
   "cast": "Jean Smart, Hannah Einbinder, Carl Clemons-Hopkins, Megan Stalter, Rose Abdoo",
-  "awards": "골든글로브 수상 · 에미상 5회",
+  "awards": "에미상 최소 14회 · 골든글로브 최소 5회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "47편",
   "commentary": "노장 코미디언과 젊은 작가의 관계를 다룬 코미디로, 세대 갈등을 날카롭게 그린다.",
@@ -1846,12 +1946,13 @@
    "Its first and third seasons won the Writers Guild of America Award for Television: Comedy Series and the Golden Globe Award for Best Television Series – Musical or Comedy, and its third season won the Television Critics Association Award for Outstanding Achievement in Comedy.",
    "Smart's performance won her five Primetime Emmy Awards, becoming the first actress in history to win for all seasons of a multi-season show."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Hacks"
+  "awards_src": "https://en.wikipedia.org/wiki/Hacks",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2442560": {
   "director": "David Caffrey",
   "cast": "Full list",
-  "awards": "확인 필요",
+  "awards": "BAFTA 최소 2회",
   "country": "영국",
   "length": "36편 · 60분",
   "commentary": "1차대전 이후 버밍엄 갱단을 슬로모션과 현대 록 음악으로 스타일리시하게 그렸다.",
@@ -1864,12 +1965,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q14944179",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Peaky_Blinders_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt3398228": {
   "director": "라파엘 밥-왁스버그",
   "cast": "확인 필요",
-  "awards": "확인 필요",
+  "awards": "애니상 최소 3회",
   "country": "미국",
   "length": "77편 · 25분",
   "commentary": "리사 하나와트의 독특한 그림체로 우울과 중독을 정면으로 다룬 성인 애니다.",
@@ -1881,12 +1983,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q17733404",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_BoJack_Horseman",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt3428912": {
   "director": "Sally Wainwright, Nicola Shindler",
   "cast": "Sarah Lancashire, Siobhan Finneran, James Norton, Charlie Murphy, George Costigan",
-  "awards": "BAFTA 수상",
+  "awards": "BAFTA 최소 4회 · 피버디상 최소 1회",
   "country": "영국",
   "length": "18편 · 60분",
   "commentary": "요크셔 경찰을 다룬 범죄 드라마로, 사실적이고 거친 톤이 특징이다.",
@@ -1901,7 +2004,8 @@
   "award_notes": [
    "It won the 2015 BAFTA Award for Best Drama Series, and won another BAFTA for Best Drama for the second series."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Happy_Valley_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Happy_Valley_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2578560": {
   "director": "일라나 글레이저, 애비 제이컵슨",
@@ -1919,7 +2023,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q16155320",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Broad_City"
+  "awards_src": "https://en.wikipedia.org/wiki/Broad_City",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt4093826": {
   "director": "데이비드 린치",
@@ -1937,12 +2042,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q23971551",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt1856010": {
   "director": "데이비드 핀처",
   "cast": "Kevin Spacey, Robin Wright, Michael Kelly, below",
-  "awards": "골든글로브 8회 · 에미상 수상",
+  "awards": "에미상 최소 9회 · 골든글로브 최소 5회 · 피버디상 최소 2회",
   "country": "미국",
   "length": "73편",
   "commentary": "워싱턴 권력 투쟁을 차갑고 대칭적인 구도와 제4의 벽 깨기로 그렸다.",
@@ -1957,12 +2063,13 @@
   "award_notes": [
    "thumb|right|Beau Willimon with cast and crew at the 73rd Annual Peabody Awards\n\nAcross its run, House of Cards received 56 Primetime Emmy nominations (7 wins), eight Golden Globe nominations (two wins), and a 2013 Peabody Award."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/House_of_Cards_(American_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_House_of_Cards",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt9059760": {
   "director": "레니 에이브러햄슨, 헤티 맥도널드",
   "cast": "Daisy Edgar-Jones, Paul Mescal, Sarah Greene",
-  "awards": "BAFTA 수상",
+  "awards": "BAFTA 최소 1회",
   "country": "아일랜드",
   "length": "12편",
   "commentary": "두 청춘의 관계를 클로즈업과 자연광 위주의 친밀한 연출로 담았다.",
@@ -1977,12 +2084,13 @@
   "award_notes": [
    "The series received positive reviews, primarily for its cast performances: Mescal was nominated for Outstanding Lead Actor at the 72nd Primetime Emmy Awards and won for Best Actor at the 67th British Academy Television Awards."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Normal_People_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Normal_People_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1266020": {
   "director": "그레그 대니얼스, 마이클 슈어",
   "cast": "Amy Poehler, Rashida Jones, Paul Schneider, Aziz Ansari, Nick Offerman",
-  "awards": "골든글로브 수상 · 피버디상 수상",
+  "awards": "에미상 최소 1회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "125편 · 22분",
   "commentary": "모큐멘터리 형식의 지방 공무원 코미디로, 첫 시즌 후 따뜻한 톤으로 자리 잡았다.",
@@ -1997,7 +2105,8 @@
   "award_notes": [
    "In January 2014, Poehler won her first Golden Globe Award for Best Actress in a Television Series Comedy."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Parks_and_Recreation"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Parks_and_Recreation",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt4955642": {
   "director": "드루 고더드, 마이클 슈어, David Miner",
@@ -2017,12 +2126,13 @@
   "award_notes": [
    "In genre awards, the show has won four Hugo Awards for Best Dramatic Presentation, Short Form for \"The Trolley Problem\", \"Janet(s)\", \"The Answer\", and \"Whenever You're Ready\"; it has also been nominated two other times in the category."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Good_Place"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Good_Place",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt1606375": {
   "director": "뤼웨, 브라이언 퍼시벌, 브라이언 켈리",
   "cast": "Hugh Bonneville, Jessica Brown Findlay, Laura Carmichael, Jim Carter, Brendan Coyle",
-  "awards": "아카데미상 수상",
+  "awards": "에미상 최소 6회 · 골든글로브 최소 3회 · BAFTA 최소 1회",
   "country": "영국",
   "length": "52편",
   "commentary": "귀족 가문과 하인들을 다룬 영국 시대극으로, 화려한 저택 미술이 특징이다.",
@@ -2037,12 +2147,13 @@
   "award_notes": [
    "Gareth Neame of Carnival Films conceived the idea of an Edwardian-era TV drama set in a country house and approached Fellowes, who had won an Academy Award for Best Writing (Original Screenplay) for Gosford Park."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Downton_Abbey"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Downton_Abbey",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt4574334": {
   "director": "숀 레비, 앤드루 스탠턴, 리처드 그린버그",
   "cast": "Winona Ryder, David Harbour, Finn Wolfhard, Millie Bobby Brown, Gaten Matarazzo",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 13회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "42편 · 96분",
   "commentary": "80년대 영화에 대한 오마주와 신스 음악으로 향수 어린 분위기를 만든다.",
@@ -2055,7 +2166,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q19798734",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Stranger_Things",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt4063800": {
   "director": "에리크 로샹",
@@ -2073,12 +2185,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q19593743",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt5024912": {
   "director": "Larry Wilmore, 이사 레이",
   "cast": "Yvonne Orji, Jay Ellis, Lisa Joyce, Natasha Rothwell, Amanda Seales",
-  "awards": "확인 필요",
+  "awards": "피버디상 최소 1회 · 에미상 최소 1회",
   "country": "미국",
   "length": "44편",
   "commentary": "LA 흑인 여성들의 우정과 연애를 다룬 코미디로, 따뜻한 색감의 촬영이 특징이다.",
@@ -2091,7 +2204,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q26689564",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Insecure_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2297757": {
   "director": "네이선 필더",
@@ -2109,12 +2223,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q10935299",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt10050772": {
   "director": "팀 로빈슨, 잭 캐닌",
   "cast": "Tim Robinson",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 3회",
   "country": "미국",
   "length": "18편 · 16분",
   "commentary": "기괴하고 짧은 스케치 코미디 모음이다.",
@@ -2127,7 +2242,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q63689230",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/I_Think_You_Should_Leave_with_Tim_Robinson",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0353049": {
   "director": "Neal Brennan, 데이브 샤펠",
@@ -2145,7 +2261,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q1062804",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt8324422": {
   "director": "Andrew Deyoung, Q108143149",
@@ -2163,12 +2280,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q55080234",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0387764": {
   "director": "Jeremy Wooding",
   "cast": "David Mitchell, Robert Webb",
-  "awards": "확인 필요",
+  "awards": "BAFTA 최소 3회",
   "country": "영국",
   "length": "54편 · 24분",
   "commentary": "등장인물 시점(POV) 촬영과 속마음 내레이션이 특징인 영국 시트콤이다.",
@@ -2181,12 +2299,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q1519256",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1353056": {
   "director": "루폴",
   "cast": "RuPaul's Drag Race contestants",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 30회",
   "country": "미국",
   "length": "207편",
   "commentary": "드래그 퀸 경연을 다룬 리얼리티로, 화려한 런웨이와 캠프 미학이 특징이다.",
@@ -2202,7 +2321,8 @@
    "The show has been awarded the Primetime Emmy Award for Outstanding Reality-Competition Program four consecutive times (2018 to 2021), and the Outstanding Reality Program Award at the GLAAD Media Awards.",
    "Series host RuPaul has won multiple Primetime Emmy Awards for Outstanding Host for a Reality or Reality Competition Program, including in 2016, 2017, 2018, 2019, 2020, 2021, 2022, and 2023; RuPaul was nominated in the same category in 2024."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/RuPaul%27s_Drag_Race"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_RuPaul's_Drag_Race",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0459159": {
   "director": "아르만도 이아누치",
@@ -2223,12 +2343,13 @@
    "Capaldi won the BAFTA for Best Male Comedy Performance at the 2010 awards, with Rebecca Front winning Best Female Comedy Performance.",
    "Showcasing ever more inventive ways in which powerless politicians and useless civil servants can create monumental crises out of molehills, the show made a star of Peter Capaldi (years after he had won an Oscar for a short film he directed), whose scathing spin doctor Malcolm Tucker frantically rampaged through Westminster like a foul-mouthed Godzilla."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Thick_of_It"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Thick_of_It",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt2845786": {
   "director": "확인 필요",
   "cast": "확인 필요",
-  "awards": "에미상 12회",
+  "awards": "에미상 최소 12회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "62편 · 42분",
   "commentary": "앤서니 보데인이 세계 곳곳을 여행하며 음식과 문화를 영화적 촬영으로 담은 다큐다.",
@@ -2243,12 +2364,13 @@
    "The show won twelve Primetime Emmy Awards out of 31 nominations, as well as a 2013 Peabody Award.",
    "The digital series Explore Parts Unknown, an editorial partnership with Roads & Kingdoms, won a Primetime Emmy Award for Outstanding Short Form Nonfiction or Reality Series."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Anthony_Bourdain:_Parts_Unknown"
+  "awards_src": "https://en.wikipedia.org/wiki/Anthony_Bourdain:_Parts_Unknown",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10155688": {
   "director": "크레이그 조벨",
   "cast": "Kate Winslet, Julianne Nicholson, Jean Smart, Angourie Rice, David Denman",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 3회 · 골든글로브 최소 1회",
   "country": "미국",
   "length": "7편 · 410분",
   "commentary": "펜실베이니아 소도시 형사를 다룬 범죄극으로, 회색빛 사실주의 톤이다.",
@@ -2261,7 +2383,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q61040213",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Mare_of_Easttown",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10802170": {
   "director": "네이선 필더",
@@ -2279,12 +2402,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q112915576",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt5834204": {
   "director": "Bruce Miller",
   "cast": "Elisabeth Moss, Joseph Fiennes, Yvonne Strahovski, Alexis Bledel, Madeline Brewer",
-  "awards": "에미상 8회 · 골든글로브 수상",
+  "awards": "에미상 최소 8회 · 골든글로브 최소 2회 · BAFTA 최소 1회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "66편",
   "commentary": "색으로 계급을 구분하는 의상 등 강렬한 색채 미술로 디스토피아를 그렸다.",
@@ -2301,7 +2425,8 @@
    "It also won the Golden Globe Award for Best Television Series – Drama.",
    "Elisabeth Moss was awarded the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series and the Golden Globe for Best Actress in a Television Drama Series."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt5071412": {
   "director": "제이슨 베이트먼",
@@ -2319,12 +2444,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q25205293",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0475900": {
   "director": "Zero Point Zero Production",
   "cast": "앤서니 보딘",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 1회",
   "country": "미국",
   "length": "142편 · 60분",
   "commentary": "보데인의 음식 여행 다큐로, 에미상 논픽션 촬영상을 받았다.",
@@ -2338,12 +2464,13 @@
   "award_notes": [
    "In 2009 and 2011, the series won the Emmy for \"Outstanding Cinematography For Nonfiction Programming\"."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Anthony_Bourdain:_No_Reservations"
+  "awards_src": "https://en.wikipedia.org/wiki/Anthony_Bourdain:_No_Reservations",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0286486": {
   "director": "Shawn Ryan",
   "cast": "Michael Chiklis, Catherine Dent, Walton Goggins, Michael Jace, Kenny Johnson",
-  "awards": "골든글로브 수상 · 에미상 수상",
+  "awards": "골든글로브 최소 2회 · 에미상 최소 1회",
   "country": "미국",
   "length": "88편 · 42분",
   "commentary": "부패 경찰을 핸드헬드 촬영으로 거칠게 담은 범죄극이다.",
@@ -2358,12 +2485,13 @@
   "award_notes": [
    "The Shield won the Golden Globe Award for Best Actor – Television Series Drama in 2003, with the series winning Best Television Series – Drama the same year."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Shield"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Shield",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt14403178": {
   "director": "확인 필요",
   "cast": "Steven Yeun, Ali Wong, Joseph Lee, Young Mazino, David Choe",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 7회 · 골든글로브 최소 3회",
   "country": "미국",
   "length": "18편",
   "commentary": "난폭운전 시비에서 시작된 복수극을 블랙 코미디로 그렸다.",
@@ -2376,12 +2504,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q112168983",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Beef_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10919420": {
   "director": "황동혁",
   "cast": "Lee Jung-jae, Lee Byung-hun, Wi Ha-joon",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 6회 · 골든글로브 최소 1회",
   "country": "대한민국",
   "length": "22편",
   "commentary": "원색의 놀이터 같은 세트와 잔혹한 게임을 대비시킨 비주얼이 특징이다.",
@@ -2394,12 +2523,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q106582931",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Squid_Game",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt5348176": {
   "director": "엘리자베스 사노프, Alec Berg, 빌 헤이더",
   "cast": "Stephen Root, Sarah Goldberg, Glenn Fleshler, Anthony Carrigan, Henry Winkler",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 10회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "32편",
   "commentary": "청부살인업자의 연기 수업을 다룬 블랙 코미디로, 점점 어두운 톤으로 변한다.",
@@ -2412,12 +2542,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q26812664",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Barry_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Barry_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt14452776": {
   "director": "Christopher Storer",
   "cast": "Jeremy Allen White, Ebon Moss-Bachrach, Ayo Edebiri, Lionel Boyce, Liza Colón-Zayas",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 22회 · 골든글로브 최소 5회",
   "country": "미국",
   "length": "47편",
   "commentary": "빠른 편집과 혼란스러운 주방 소음으로 스트레스를 체감하게 하는 연출이 특징이다.",
@@ -2430,12 +2561,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q112761982",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/The_Bear_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10986410": {
   "director": "제이슨 수데이키스, 빌 로렌스, Jeff Ingold",
   "cast": "Hannah Waddingham, Jeremy Swift, Phil Dunster, Brett Goldstein, Nick Mohammed",
-  "awards": "에미상 수상 · 골든글로브 수상",
+  "awards": "골든글로브 최소 2회 · 에미상 최소 2회 · 피버디상 최소 1회",
   "country": "미국, 영국",
   "length": "44편",
   "commentary": "미국 풋볼 감독이 영국 축구팀을 맡는 따뜻한 낙관주의 코미디다.",
@@ -2452,12 +2584,13 @@
    "Sudeikis also won the Golden Globe Award for Best Actor – Television Series Musical or Comedy and the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Comedy Series.",
    "Sudeikis also won the Golden Globe Award for Best Actor – Television Series Musical or Comedy and the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Comedy Series for 2020 and 2021."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Ted_Lasso"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Ted_Lasso",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt12759100": {
   "director": "확인 필요",
   "cast": "Bridget Everett, Jeff Hiller, Mary Catherine Garrison, Danny McCarthy, Mike Hagerty",
-  "awards": "확인 필요",
+  "awards": "피버디상 최소 1회 · 에미상 최소 1회",
   "country": "미국",
   "length": "21편",
   "commentary": "캔자스 중년 여성의 일상을 소박하고 사실적인 톤으로 담았다.",
@@ -2470,12 +2603,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q110486834",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Somebody_Somewhere_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1442437": {
   "director": "Steven Levitan, 크리스토퍼 로이드",
   "cast": "Ed O'Neill, Sofía Vergara, Julie Bowen, Ty Burrell, Jesse Tyler Ferguson",
-  "awards": "에미상 22회 · 골든글로브 수상",
+  "awards": "에미상 최소 21회 · 골든글로브 최소 1회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "250편",
   "commentary": "모큐멘터리 형식으로 세 가족의 일상을 담은 시트콤이다.",
@@ -2492,7 +2626,8 @@
    "It also won the Golden Globe Award for Best Television Series – Musical or Comedy in 2011.",
    "Aided by winning the Primetime Emmy Award for Outstanding Comedy Series, the show's second season became the highest rated show on Wednesday during premiere week."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Modern_Family"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Modern_Family",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0472954": {
   "director": "글렌 하워턴",
@@ -2510,12 +2645,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q23670",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt1442462": {
   "director": "Michelle King, Robert King",
   "cast": "Julianna Margulies, Matt Czuchry, Archie Panjabi, Graham Phillips, Makenzie Vega",
-  "awards": "에미상 5회 · 골든글로브 수상 · 피버디상 수상",
+  "awards": "에미상 최소 5회 · 골든글로브 최소 1회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "156편 · 43분",
   "commentary": "법정과 정치를 다룬 드라마로, 세련된 연출과 연속 서사가 특징이다.",
@@ -2532,12 +2668,13 @@
    "Julianna Margulies has been widely recognized for her portrayal in the lead role, winning the Primetime Emmy Award, Golden Globe Award, Critics' Choice Television Award, TCA Award for Individual Achievement in Drama, and twice for the Screen Actors Guild Award.",
    "The series has also been nominated for five Golden Globe Awards in its first four seasons, with Margulies winning the Golden Globe Award for Best Actress – Television Series Drama for the first half of the first season in 2010."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Good_Wife"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_The_Good_Wife",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10801534": {
   "director": "John Wilson",
   "cast": "John Wilson",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 1회",
   "country": "미국",
   "length": "6편 · 29분",
   "commentary": "수많은 뉴욕 거리 B롤 영상과 2인칭 내레이션으로 구성한 다큐 코미디다.",
@@ -2549,12 +2686,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q85767522",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/How_To_with_John_Wilson",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt10048342": {
   "director": "스콧 프랭크",
   "cast": "Anya Taylor-Joy, Bill Camp, Moses Ingram, Isla Johnston, Christiane Seidel",
-  "awards": "에미상 11회 · 골든글로브 2회",
+  "awards": "에미상 최소 11회 · 골든글로브 최소 2회",
   "country": "미국",
   "length": "7편",
   "commentary": "60년대 체스 신동을 세련된 미술과 촬영으로 그렸다.",
@@ -2570,12 +2708,13 @@
    "The Queen's Gambit won eleven Primetime Emmy Awards, including Outstanding Limited or Anthology Series, becoming the first show on a streaming service to win the category.",
    "The series also won two Golden Globe Awards: Best Limited Series or Television Film and Best Actress – Miniseries or Television Film for Taylor-Joy."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Queen%27s_Gambit_(miniseries)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt4370596": {
   "director": "패멀라 애들론, 루이 C.K.",
   "cast": "Mikey Madison, Olivia Edward, Celia Imrie",
-  "awards": "확인 필요",
+  "awards": "피버디상 최소 1회",
   "country": "미국",
   "length": "52편 · 23분",
   "commentary": "싱글맘 배우의 일상을 사실적이고 작가주의적으로 담았다.",
@@ -2588,7 +2727,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q23016657",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Better_Things_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt1489428": {
   "director": "엘모어 레너드",
@@ -2606,7 +2746,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q1535208",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": "https://en.wikipedia.org/wiki/Justified_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Justified_(TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt0795176": {
   "director": "Alastair Fothergill",
@@ -2625,12 +2766,13 @@
   "award_notes": [
    "Planet Earth was recognised by the American television industry, collecting the award for Nonfiction Series at the 59th Primetime Emmy Awards in September 2007 and winning a further three prizes in technical categories at the Creative Arts Emmy Awards."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Planet_Earth_(2006_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Planet_Earth_(2006_TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt1877368": {
   "director": "확인 필요",
   "cast": "나이젤라 로슨, 폴 할리우드, Prue Leith, Mary Berry",
-  "awards": "확인 필요",
+  "awards": "BAFTA 최소 2회",
   "country": "영국",
   "length": "90편",
   "commentary": "천막 속 아마추어 제빵 경연으로, 경쟁보다 친절함이 강조되는 톤이다.",
@@ -2642,12 +2784,13 @@
   ],
   "wikidata": "http://www.wikidata.org/entity/Q7737672",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/The_Great_British_Bake_Off",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt13623580": {
   "director": "Tazbah Chavez",
   "cast": "Devery Jacobs, D'Pharaoh Woon-A-Tai, Lane Factor, Paulina Alexis",
-  "awards": "확인 필요",
+  "awards": "피버디상 최소 2회",
   "country": "미국",
   "length": "28편",
   "commentary": "오클라호마 원주민 10대들의 삶을 유머와 슬픔으로 그렸다.",
@@ -2660,12 +2803,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q104902493",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/Reservation_Dogs",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0773262": {
   "director": "Adam Davidson, 토니 골드윈, Michael Cuesta",
   "cast": "Michael C. Hall, Julie Benz, Jennifer Carpenter, Erik King, Lauren Vélez",
-  "awards": "피버디상 수상 · 골든글로브 수상 · 에미상 수상",
+  "awards": "에미상 최소 2회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "96편",
   "commentary": "마이애미의 밝은 색감과 연쇄살인범의 내레이션을 대비시킨 범죄극이다.",
@@ -2681,12 +2825,13 @@
    "It has also been nominated for 10 Golden Globe Awards (winning two) and seven Screen Actors Guild Awards, and received a Peabody Award in 2007.",
    "In 2010, Hall and Lithgow, in their respective categories, each won a Golden Globe for their performances in season four."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Dexter_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Dexter",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt13649112": {
   "director": "요세핀 보르네부슈, Weronika Tofilska",
   "cast": "Jessica Gunning, Nava Mau, Tom Goodman-Hill",
-  "awards": "에미상 6회 · 골든글로브 2회",
+  "awards": "에미상 최소 6회 · BAFTA 최소 3회 · 골든글로브 최소 2회 · 피버디상 최소 1회",
   "country": "영국",
   "length": "7편",
   "commentary": "스토킹 피해 실화를 바탕으로 한 자전적 드라마로, 불편할 만큼 솔직하다.",
@@ -2702,7 +2847,8 @@
    "Baby Reindeer won six Primetime Emmy Awards, including Outstanding Limited or Anthology Series, Outstanding Writing for Gadd, Outstanding Lead Actor for Gadd, and Outstanding Supporting Actress for Gunning.",
    "It also won two Golden Globes: Best Limited or Anthology Series and Best Supporting Actress for Gunning."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Baby_Reindeer"
+  "awards_src": "https://en.wikipedia.org/wiki/Baby_Reindeer",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0866442": {
   "director": "조디 힐",
@@ -2720,12 +2866,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q673669",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt4374208": {
   "director": "샤론 호건",
   "cast": "{{Plainlist|, Sharon Horgan, Rob Delaney\n}}",
-  "awards": "BAFTA 수상",
+  "awards": "BAFTA 최소 1회",
   "country": "영국",
   "length": "24편 · 25분",
   "commentary": "런던 커플의 결혼과 육아를 신랄하게 그린 영국 코미디다.",
@@ -2740,12 +2887,13 @@
   "award_notes": [
    "Both Horgan and Delaney won the BAFTA TV Award for Best Writer: Comedy."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Catastrophe_(2015_TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2401256": {
   "director": "스티븐 제일리언",
   "cast": "John Turturro, Riz Ahmed, Bill Camp, Payman Maadi, Poorna Jagannathan",
-  "awards": "확인 필요",
+  "awards": "에미상 최소 5회",
   "country": "미국",
   "length": "8편",
   "commentary": "살인 혐의 청년의 재판 과정을 차갑고 느린 템포로 사법 제도를 해부한다.",
@@ -2758,12 +2906,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q17986725",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": "https://en.wikipedia.org/wiki/The_Night_Of",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt17491088": {
   "director": "케리 러셀, Debora Cahn, Simon Cellan Jones",
   "cast": "Keri Russell, Rufus Sewell, David Gyasi, Ali Ahn, Rory Kinnear",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 1회",
   "country": "미국",
   "length": "30편 · 56분",
   "commentary": "외교관의 위기 대응을 빠른 대사와 긴장감 있는 전개로 그렸다.",
@@ -2778,12 +2927,13 @@
   "award_notes": [
    "Russell has  won an Actor Award and has been nominated for three Primetime Emmy Awards and three Golden Globe Awards, while Janney has won a Primetime Emmy Award."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_Diplomat_(American_TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/The_Diplomat_(American_TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0412142": {
   "director": "R. 리 어메이, 레슬리 링카 글래터, 피터 웰러",
   "cast": "Hugh Laurie, Lisa Edelstein, Omar Epps, Robert Sean Leonard, Jennifer Morrison",
-  "awards": "에미상 수상",
+  "awards": "에미상 최소 5회 · 골든글로브 최소 2회 · BAFTA 최소 1회",
   "country": "미국",
   "length": "177편 · 42분",
   "commentary": "괴짜 천재 의사의 진단 미스터리를 매 화 사건 형식으로 그렸다.",
@@ -2800,7 +2950,8 @@
    "Director Greg Yaitanes received the 2008 Primetime Emmy Award for Outstanding Directing for a Drama Series, for directing \"House's Head\", the first part of season four's two-episode finale.",
    "In 2007, the show won a Creative Arts Emmy Award for prosthetic makeup."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/House_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_House",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt2543312": {
   "director": "에드 비앙키, 후안 호세 캄파넬라, 라리사 콘드라키",
@@ -2818,7 +2969,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q15072819",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt1439629": {
   "director": "댄 하먼",
@@ -2840,7 +2992,8 @@
    "Cast member Jim Rash, who won an Academy Award in 2011 for co-writing the film The Descendants, also wrote a season four episode.",
    "The episode \"Abed's Uncontrollable Christmas\" won a 2011 Creative Arts Emmy Award for Individual Achievement in Animation."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Community_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Community_(TV_series)",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt4635282": {
   "director": "잘 배트매글리즈",
@@ -2858,7 +3011,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q19798744",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0238784": {
   "director": "David S. Rosenthal, 개빈 폴론, Amy Sherman-Palladino",
@@ -2878,12 +3032,13 @@
   "award_notes": [
    "Its only Emmy nomination was for Outstanding Makeup for a Series, for the episode \"The Festival of Living Art\", which it won at the 56th Primetime Emmy Awards in 2004."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Gilmore_Girls"
+  "awards_src": "https://en.wikipedia.org/wiki/Gilmore_Girls",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt1837576": {
   "director": "톰 베리카",
   "cast": "Kerry Washington, Henry Ian Cusick, Columbus Short, Darby Stanchfield, Katie Lowes",
-  "awards": "피버디상 수상",
+  "awards": "에미상 최소 2회 · 피버디상 최소 1회",
   "country": "미국",
   "length": "124편 · 42분",
   "commentary": "정치 위기관리 전문가를 다룬 빠른 템포의 정치 스릴러다.",
@@ -2898,7 +3053,8 @@
   "award_notes": [
    "The show was named a Television Program of the Year by the American Film Institute, received the Peabody Award for Excellence in Television and was honored as Outstanding Drama Series at the Image Awards."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Scandal_(TV_series)"
+  "awards_src": "https://en.wikipedia.org/wiki/Scandal_(TV_series)",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0053198": {
   "director": "프랑수아 트뤼포",
@@ -2918,7 +3074,8 @@
   "award_notes": [
    "The film opened the 1959 Cannes Film Festival and was widely acclaimed, winning numerous awards, including the Best Director Award at Cannes, the Critics Award of the 1959 New York Film Critics' Circle and the Best European Film Award at 1960's Bodil Awards."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/The_400_Blows"
+  "awards_src": "https://en.wikipedia.org/wiki/The_400_Blows",
+  "awards_label": "Wikipedia 본문 문장 기준"
  },
  "tt0165078": {
   "director": "고레에다 히로카즈",
@@ -2936,7 +3093,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q1139458",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0056444": {
   "director": "오즈 야스지로",
@@ -2954,12 +3112,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q1189572",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt7282468": {
   "director": "이창동",
   "cast": "Yoo Ah-in, Steven Yeun, Jeon Jong-seo",
-  "awards": "칸 영화제 수상",
+  "awards": "칸 영화제 최소 1회",
   "country": "일본, 대한민국",
   "length": " · 148분",
   "commentary": "이창동 감독작으로, 긴 호흡과 모호한 서사로 계급과 분노를 그린다. 노을 속 춤 장면이 유명하다.",
@@ -2974,7 +3133,8 @@
   "award_notes": [
    "Burning won the FIPRESCI Prize at the 2018 Cannes Film Festival."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/Burning_(2018_film)"
+  "awards_src": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Burning",
+  "awards_label": "Wikipedia 수상 목록 페이지 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0043313": {
   "director": "오즈 야스지로",
@@ -2992,12 +3152,13 @@
   "wikidata": "http://www.wikidata.org/entity/Q1761192",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0118694": {
   "director": "왕가위",
   "cast": "Maggie Cheung, Tony Leung Chiu-wai",
-  "awards": "칸 영화제 수상",
+  "awards": "칸 영화제 최소 1회",
   "country": "프랑스, 태국, 홍콩",
   "length": " · 98분",
   "commentary": "왕가위 감독작으로, 좁은 복도와 프레임 속 프레임, 슬로모션과 반복 음악으로 억눌린 사랑을 그린다.",
@@ -3013,7 +3174,8 @@
    "His 1997 film Happy Together was also successful internationally, winning him Best Director at the Cannes Film Festival and surprising many.",
    "Cheung felt In the Mood for Love was the high point of her career, and she has worked much more infrequently since, starring in several films soon after but within four years, all but retired from acting, despite winning a Best Actress Award at Cannes for 2004's Clean."
   ],
-  "awards_src": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love"
+  "awards_src": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
+  "awards_label": "Wikipedia 본문 수상 표 자동 집계(수상만, 공식 기록보다 적게 셀 수 있음)"
  },
  "tt0056119": {
   "director": "크리스 마르케",
@@ -3031,7 +3193,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q451434",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0258885": {
   "director": "지아장커",
@@ -3049,7 +3212,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q197412",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0046438": {
   "director": "오즈 야스지로",
@@ -3067,7 +3231,8 @@
   "wikidata": "http://www.wikidata.org/entity/Q26060",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  },
  "tt0244316": {
   "director": "에드워드 양",
@@ -3085,6 +3250,7 @@
   "wikidata": "http://www.wikidata.org/entity/Q704513",
   "cast_src": "Wikipedia infobox starring",
   "award_notes": [],
-  "awards_src": null
+  "awards_src": null,
+  "awards_label": null
  }
 }
