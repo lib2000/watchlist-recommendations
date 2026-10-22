@@ -1,0 +1,293 @@
+{
+ "source": "BFI Sight and Sound Greatest Films of All Time 2022 – Directors' poll, voter: Kogonada (unranked ballot)",
+ "url": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/kogonada",
+ "titles": [
+  {
+   "title": "The 400 Blows",
+   "bfi_title": "The 400 Blows",
+   "director": "François Truffaut",
+   "year": 1959,
+   "genre": "드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0053198",
+   "imdb": "https://www.imdb.com/title/tt0053198/",
+   "imdb_title": "The 400 Blows",
+   "imdb_year": 1959,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "400번의 구타",
+   "jw": "https://www.justwatch.com/kr/영화/the-400-blows",
+   "ott": [
+    {
+     "service": "Watcha",
+     "type": "구독",
+     "url": "https://watcha.com/contents/mv5aQM5"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "After Life",
+   "bfi_title": "Wandafuru Raifu",
+   "director": "Hirokazu Koreeda",
+   "year": 1998,
+   "genre": "판타지/드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0165078",
+   "imdb": "https://www.imdb.com/title/tt0165078/",
+   "imdb_title": "After Life",
+   "imdb_year": 1998,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "원더풀 라이프",
+   "jw": "https://www.justwatch.com/kr/영화/weondeopul-raipeu",
+   "ott": [
+    {
+     "service": "Netflix",
+     "type": "구독",
+     "url": "https://www.netflix.com/title/60000583"
+    },
+    {
+     "service": "Watcha",
+     "type": "구독",
+     "url": "https://watcha.com/contents/mO0gVLW"
+    },
+    {
+     "service": "wavve",
+     "type": "대여",
+     "url": "https://www.wavve.com/player/movie?movieid=MV_C3001_C300000011668"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "An Autumn Afternoon",
+   "bfi_title": "An Autumn Afternoon",
+   "director": "Yasujirō Ozu",
+   "year": 1962,
+   "genre": "드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0056444",
+   "imdb": "https://www.imdb.com/title/tt0056444/",
+   "imdb_title": "An Autumn Afternoon",
+   "imdb_year": 1962,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "꽁치의 맛",
+   "jw": "https://www.justwatch.com/kr/영화/ggongciyi-mas",
+   "ott": [
+    {
+     "service": "Watcha",
+     "type": "구독",
+     "url": "https://watcha.com/contents/mwWL0zW"
+    },
+    {
+     "service": "Plex",
+     "type": "광고형 무료",
+     "url": "https://watch.plex.tv/movie/an-autumn-afternoon?autoplay=1&utm_content=5d77688c23d5a3001f4edecf&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "Burning",
+   "bfi_title": "Beoning",
+   "director": "Lee Chang-dong",
+   "year": 2018,
+   "genre": "미스터리/스릴러",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt7282468",
+   "imdb": "https://www.imdb.com/title/tt7282468/",
+   "imdb_title": "Burning",
+   "imdb_year": 2018,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "버닝",
+   "jw": "https://www.justwatch.com/kr/영화/burning",
+   "ott": [
+    {
+     "service": "Netflix",
+     "type": "구독",
+     "url": "https://www.netflix.com/title/81015498"
+    },
+    {
+     "service": "wavve",
+     "type": "구독",
+     "url": "https://www.wavve.com/player/movie?movieid=MV_C901_SG0000109972"
+    },
+    {
+     "service": "TVING",
+     "type": "구독",
+     "url": "https://www.tving.com/contents/M000183833"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "Early Summer",
+   "bfi_title": "Bakushû",
+   "director": "Yasujirō Ozu",
+   "year": 1951,
+   "genre": "드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0043313",
+   "imdb": "https://www.imdb.com/title/tt0043313/",
+   "imdb_title": "Early Summer",
+   "imdb_year": 1951,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": null,
+   "jw": null,
+   "ott": [],
+   "st": "JustWatch KR 매칭 없음 → 국내 OTT 확인 불가"
+  },
+  {
+   "title": "In the Mood for Love",
+   "bfi_title": "In the Mood for Love",
+   "director": "Wong Kar Wai",
+   "year": 2000,
+   "genre": "로맨스/드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0118694",
+   "imdb": "https://www.imdb.com/title/tt0118694/",
+   "imdb_title": "In the Mood for Love",
+   "imdb_year": 2000,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "화양연화",
+   "jw": "https://www.justwatch.com/kr/영화/in-the-mood-for-love",
+   "ott": [
+    {
+     "service": "Netflix",
+     "type": "구독",
+     "url": "https://www.netflix.com/title/81580523"
+    },
+    {
+     "service": "Disney Plus",
+     "type": "구독",
+     "url": "https://www.disneyplus.com/browse/entity-23d5e257-2b9f-4c15-9b9a-283fe062416a"
+    },
+    {
+     "service": "wavve",
+     "type": "구독",
+     "url": "https://www.wavve.com/player/movie?movieid=MV_CX01_CX0000011505"
+    },
+    {
+     "service": "Watcha",
+     "type": "구독",
+     "url": "https://watcha.com/contents/my5YK3O"
+    },
+    {
+     "service": "TVING",
+     "type": "구독",
+     "url": "https://www.tving.com/contents/M000358075"
+    },
+    {
+     "service": "wavve",
+     "type": "대여",
+     "url": "https://www.wavve.com/player/movie?movieid=MV_CX01_CX0000011505"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "La Jetée",
+   "bfi_title": "La Jetée",
+   "director": "Chris Marker",
+   "year": 1962,
+   "genre": "SF/단편",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0056119",
+   "imdb": "https://www.imdb.com/title/tt0056119/",
+   "imdb_title": "La Jetée",
+   "imdb_year": 1962,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "방파제",
+   "jw": "https://www.justwatch.com/kr/영화/la-jetee",
+   "ott": [
+    {
+     "service": "MUBI",
+     "type": "구독",
+     "url": "https://mubi.com/films/la-jetee"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "Platform",
+   "bfi_title": "ZHANTAI",
+   "director": "Jia Zhangke",
+   "year": 2000,
+   "genre": "드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0258885",
+   "imdb": "https://www.imdb.com/title/tt0258885/",
+   "imdb_title": "Platform",
+   "imdb_year": 2000,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": null,
+   "jw": null,
+   "ott": [],
+   "st": "JustWatch KR 매칭 없음 → 국내 OTT 확인 불가"
+  },
+  {
+   "title": "Tokyo Story",
+   "bfi_title": "Tokyo Story",
+   "director": "Yasujirō Ozu",
+   "year": 1953,
+   "genre": "드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0046438",
+   "imdb": "https://www.imdb.com/title/tt0046438/",
+   "imdb_title": "Tokyo Story",
+   "imdb_year": 1953,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "동경 이야기",
+   "jw": "https://www.justwatch.com/kr/영화/donggyeong-iyagi",
+   "ott": [
+    {
+     "service": "Watcha",
+     "type": "구독",
+     "url": "https://watcha.com/contents/mdBaePO"
+    },
+    {
+     "service": "Plex",
+     "type": "광고형 무료",
+     "url": "https://watch.plex.tv/movie/tokyo-story?autoplay=1&utm_content=5d776842103a2d001f56ace9&utm_medium=deeplink&utm_source=justWatch-v2-catalog"
+    }
+   ],
+   "st": "제공"
+  },
+  {
+   "title": "Yi Yi",
+   "bfi_title": "Yi Yi",
+   "director": "Edward Yang",
+   "year": 1999,
+   "genre": "드라마",
+   "kind": "영화",
+   "checked": "2026-10-22",
+   "imdb_id": "tt0244316",
+   "imdb": "https://www.imdb.com/title/tt0244316/",
+   "imdb_title": "Yi Yi",
+   "imdb_year": 2000,
+   "imdb_verify": "IMDb 공개 검색 API 대조(ID/제목/연도/종류)",
+   "in_thread": null,
+   "ko": "하나 그리고 둘",
+   "jw": "https://www.justwatch.com/kr/영화/hana-geurigo-dul",
+   "ott": [],
+   "st": "국내 미제공"
+  }
+ ]
+}
