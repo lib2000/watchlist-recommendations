@@ -1,0 +1,906 @@
+{
+ "tag_key": "USER",
+ "tag_label": "내 추천(직접 입력)",
+ "added_new": [
+  {
+   "k": "tt32547691",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt32547691",
+    "title": "Pressure",
+    "ko": "프레셔",
+    "year": 2026,
+    "kind": "영화",
+    "genre": "역사/전쟁",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt32547691/",
+    "ott": [],
+    "st": "JustWatch KR 매칭 없음 → 국내 OTT 확인 불가",
+    "jw": null,
+    "src": [
+     "USER"
+    ],
+    "k": "tt32547691"
+   },
+   "details": {
+    "director": "Anthony Maras (각본: Anthony Maras, David Haig)",
+    "cast": "Andrew Scott, Brendan Fraser, Kerry Condon, Chris Messina, Damian Lewis",
+    "awards": "확인 필요",
+    "country": "영국·프랑스",
+    "length": "100분",
+    "commentary": "데이비드 헤이그의 2014년 연극을 각색한 전쟁 드라마다. 상륙 장면보다 기상학자 제임스 스태그(앤드루 스콧)의 예보와 아이젠하워(브렌던 프레이저)의 결단이 맞부딪치는 D-데이 직전 72시간에 초점을 둔다. 촬영은 전부 영국에서 진행됐고(멘트모어 타워스 등), 촬영 Jamie D. Ramsay·음악 Volker Bertelmann이 참여했다. Wikipedia 기준 Rotten Tomatoes 평론가 긍정 평가 89%(147건).",
+    "commentary_src": "https://en.wikipedia.org/wiki/Pressure_(2026_film)",
+    "points": [
+     "노르망디 상륙작전 직전 72시간 — 일기예보가 작전을 좌우한 실화",
+     "앤드루 스콧(스태그)·브렌던 프레이저(아이젠하워) 투톱",
+     "2026-05-29 미국 개봉, 2026-09-11 영국 개봉 (Wikipedia)",
+     "내 추천(직접 입력): 프레셔 (Pressure, 2026) — 노르망디 상륙작전 직전 72시간을 그린 역사 전쟁 스릴러",
+     "매핑 메모: IMDb·Wikipedia에서 2026년 개봉작으로 확인. JustWatch KR 매칭 없음"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q127698549",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Pressure_(2026_film)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt0332452",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt0332452",
+    "title": "Troy",
+    "ko": "트로이",
+    "year": 2004,
+    "kind": "영화",
+    "genre": "역사/전쟁",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt0332452/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/60034571"
+     },
+     {
+      "service": "wavve",
+      "type": "대여",
+      "url": "https://www.wavve.com/player/movie?movieid=MV_CD01_WR0000011399"
+     },
+     {
+      "service": "wavve",
+      "type": "구매",
+      "url": "https://www.wavve.com/player/movie?movieid=MV_CD01_WR0000011399"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/영화/troy",
+    "src": [
+     "USER"
+    ],
+    "k": "tt0332452"
+   },
+   "details": {
+    "director": "Wolfgang Petersen (각본: David Benioff)",
+    "cast": "Brad Pitt, Eric Bana, Orlando Bloom, Diane Kruger, Sean Bean",
+    "awards": "공식 기록상 아카데미상 수상 없음",
+    "country": "미국·영국·몰타",
+    "length": "163분(극장판) / 196분(감독판)",
+    "commentary": "호메로스 『일리아스』를 느슨하게 각색한 대서사 액션이다. 10년에 걸친 트로이 전쟁을 몇 주 사이의 이야기로 압축했다. 몰타·멕시코·영국 셰퍼턴 스튜디오에서 촬영했고 트로이 성벽은 멕시코 카보 산 루카스에 세워 찍었다. 평단 반응은 엇갈렸지만 브래드 피트·에릭 바나의 연기와 오락성은 호평, 원작과 다른 이야기는 비판받았다(Wikipedia).",
+    "commentary_src": "https://en.wikipedia.org/wiki/Troy_(film)",
+    "points": [
+     "아킬레우스(피트) vs 헥토르(바나)의 대결 구도",
+     "대규모 로케이션과 세트 중심의 스펙터클",
+     "아카데미 의상상 후보 (수상은 아님)",
+     "내 추천(직접 입력): 트로이"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q186587",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://www.oscars.org/oscars/ceremonies/2005",
+    "awards_srcname": "공식 기록",
+    "awards_label": "확인 범위: 아카데미상(의상상 후보 1회에 그침). 다른 시상식은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt0405094",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt0405094",
+    "title": "The Lives of Others",
+    "ko": "타인의 삶",
+    "year": 2006,
+    "kind": "영화",
+    "genre": "드라마",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt0405094/",
+    "ott": [
+     {
+      "service": "wavve",
+      "type": "구독",
+      "url": "https://www.wavve.com/player/movie?movieid=MV_VW01_VW000000072"
+     },
+     {
+      "service": "Watcha",
+      "type": "구독",
+      "url": "https://watcha.com/contents/m2dj3a5"
+     },
+     {
+      "service": "TVING",
+      "type": "구독",
+      "url": "https://www.tving.com/contents/M000377773"
+     },
+     {
+      "service": "wavve",
+      "type": "대여",
+      "url": "https://www.wavve.com/player/movie?movieid=MV_VW01_VW000000072"
+     },
+     {
+      "service": "wavve",
+      "type": "구매",
+      "url": "https://www.wavve.com/player/movie?movieid=MV_VW01_VW000000072"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/영화/tainyi-salm",
+    "src": [
+     "USER"
+    ],
+    "k": "tt0405094"
+   },
+   "details": {
+    "director": "Florian Henckel von Donnersmarck (각본 겸)",
+    "cast": "Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur",
+    "awards": "아카데미 외국어영화상(2007) · BAFTA 비영어권영화상 · 유럽영화상 작품상 · 독일영화상 7개 부문",
+    "country": "독일",
+    "length": "137분",
+    "commentary": "동독 비밀경찰 슈타지의 도청 작전을 한 요원의 시선으로 따라가는 감시 스릴러로, 감독의 장편 데뷔작이다. 촬영감독 Hagen Bogdanski는 당시 동베를린 거리를 떠올리며 브레히트풍의 회색 색조를 잡았다고 한다. 추격전 대신 인물의 심리와 서스펜스로 끌고 가며, 울리히 뮈헤의 연기가 호평받았다(Rotten Tomatoes 평단합의, Metacritic 89/100 — Wikipedia).",
+    "commentary_src": "https://en.wikipedia.org/wiki/The_Lives_of_Others",
+    "points": [
+     "동독 슈타지 감시 사회를 다룬 감독 데뷔작",
+     "아카데미 외국어영화상 수상 (공식 기록)",
+     "브레히트풍 회색 색조의 촬영",
+     "내 추천(직접 입력): 타인의 삶"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q153882",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://www.oscars.org/oscars/ceremonies/2007",
+    "awards_srcname": "공식 기록(아카데미)",
+    "awards_label": "아카데미상은 공식 기록(Academy)으로 확인. 나머지는 Wikipedia 본문 문장 기준."
+   }
+  },
+  {
+   "k": "tt7902072",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt7902072",
+    "title": "Safe",
+    "ko": "내 이웃의 비밀",
+    "year": 2018,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt7902072/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/80201500"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/safe",
+    "src": [
+     "USER"
+    ],
+    "k": "tt7902072"
+   },
+   "details": {
+    "director": "Harlan Coben(크리에이터) · 각본 Danny Brocklehurst, Mick Ford, Alex Ganley, Karla Crome",
+    "cast": "Michael C. Hall, Amanda Abbington, Audrey Fleurot, Marc Warren, Hannah Arterton",
+    "awards": "확인 필요",
+    "country": "프랑스·영국",
+    "length": "8편 · 41–47분",
+    "commentary": "영국 북서부(맨체스터·리버풀·체셔)에서 촬영한 교외 스릴러다. 아내를 잃은 소아과 외과의 톰이 16세 딸 제니의 실종 뒤 이웃과 가족의 비밀을 파헤친다. 평은 '가볍게 보기 좋은 소프 오페라'라는 평가와 주연 연기·톤을 비판하는 평이 엇갈렸다(Wikipedia).",
+    "commentary_src": "https://en.wikipedia.org/wiki/Safe_(TV_series)",
+    "points": [
+     "할런 코벤 오리지널 각본 시리즈 (캐널플뤼 제작, 2018-05-10 넷플릭스 공개)",
+     "마이클 C. 홀 주연",
+     "실종·이웃의 비밀 구조",
+     "내 추천(직접 입력): 할런 코벤 작품: 내 이웃의 비밀",
+     "매핑 메모: JustWatch KR 한국어 제목 '내 이웃의 비밀'이 Safe(2018)와 일치 (확신 높음)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q39070847",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Safe_(TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt9169516",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt9169516",
+    "title": "Run Away",
+    "ko": "네가 사라진 날",
+    "year": 2026,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt9169516/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81744420"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/run-away",
+    "src": [
+     "USER"
+    ],
+    "k": "tt9169516"
+   },
+   "details": {
+    "director": "원작 Harlan Coben · 연출 확인 필요",
+    "cast": "James Nesbitt, Alfred Enoch, Ruth Jones, Minnie Driver, Ellie de Lange",
+    "awards": "확인 필요",
+    "country": "영국",
+    "length": "8편 · 41–50분",
+    "commentary": "투자은행가 사이먼 그린이 약물에 빠진 가출 딸 페이지를 찾아 나서다 위험한 지하세계와 가족의 비밀에 닿는 스릴러다. 딸이 가출 전 사귀던 남자친구 살인 사건의 용의자로 몰리면서 사이먼의 완벽해 보이던 삶이 흔들린다. 2026-01-01 넷플릭스 공개 영국 미니시리즈. Metacritic 56/100(평단 '혼재', Wikipedia), 루스 존스가 31회 전미TV어워즈 드라마 연기상 후보.",
+    "commentary_src": "https://en.wikipedia.org/wiki/Run_Away_(TV_series)",
+    "points": [
+     "할런 코벤 동명 소설(2019)을 각색한 영국 시리즈",
+     "제임스 네스빗 주연",
+     "한국 제목 '네가 사라진 날' (입력명과 1자 차이)",
+     "내 추천(직접 입력): 할런 코벤 작품: 네가 사라지던 날",
+     "매핑 메모: 입력하신 '네가 사라지던 날'은 넷플릭스 한국 제목 '네가 사라진 날'(Run Away, 코벤 소설 한국어판 제목 동일)로 추정 — 확신 중간(글자 1자 차이, 같은 제목의 다른 작품은 못 찾음)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q131985801",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Run_Away_(TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia에는 전미TV어워즈 후보 기록만 있고 수상은 확인되지 않았어요(2026-10-24)."
+   }
+  },
+  {
+   "k": "tt9698480",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt9698480",
+    "title": "The Stranger",
+    "ko": "스트레인저",
+    "year": 2020,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt9698480/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81001209"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/seuteureinjeo",
+    "src": [
+     "USER"
+    ],
+    "k": "tt9698480"
+   },
+   "details": {
+    "director": "Harlan Coben(크리에이터) · 각본 주로 Danny Brocklehurst",
+    "cast": "Richard Armitage, Siobhan Finneran, Jacob Dudman, Hannah John-Kamen, Anthony Head",
+    "awards": "확인 필요",
+    "country": "영국",
+    "length": "8편 · 42–51분",
+    "commentary": "코벤의 2015년 소설을 각색한 8부작이다. 야구모자를 쓴 20대 낯선 여성이 애덤 프라이스에게 비밀을 털어놓고, 그 폭로 직후 아내 코린이 사라지면서 더 많은 비밀이 드러난다. 맨체스터·스톡포트·볼턴·베리 일대에서 촬영했다. 2020-01-30 넷플릭스 공개.",
+    "commentary_src": "https://en.wikipedia.org/wiki/The_Stranger_(British_TV_series)",
+    "points": [
+     "폭로 한 마디가 가정을 무너뜨리는 도입부",
+     "리처드 아미티지·한나 존 케이먼 주연",
+     "영국 맨체스터 일대 로케이션",
+     "내 추천(직접 입력): 할런 코벤 작품: 스트레인저(The Stranger)",
+     "매핑 메모: 동명 영화가 여러 편 있어 IMDb ID로 확정(tt9698480, 2020 영국 시리즈)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q84152294",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/The_Stranger_(British_TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt5611024",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt5611024",
+    "title": "Fool Me Once",
+    "ko": "비밀의 비밀",
+    "year": 2024,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt5611024/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81588093"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/bimilyi-bimil",
+    "src": [
+     "USER"
+    ],
+    "k": "tt5611024"
+   },
+   "details": {
+    "director": "Harlan Coben 원작 · 각색 Danny Brocklehurst · 연출 확인 필요",
+    "cast": "Michelle Keegan, Adeel Akhtar, Dino Fetscher, Richard Armitage, Joanna Lumley",
+    "awards": "확인 필요",
+    "country": "영국",
+    "length": "8편 · 35–55분",
+    "commentary": "코벤의 2016년 소설을 각색한 영국 스릴러다. 전직 군 조종사 마야가 남편 조의 살해로 괴로워하던 중, 아이 감시용 베이비캠에서 죽은 줄 알았던 조를 보게 된다. 이후 마야의 언니 클레어의 죽음과 조의 부유한 집안(제약회사 Burkett Global)을 둘러싼 비밀이 풀려 나간다. 원작의 미국 배경을 영국으로 옮겼고 퀘이 스트리트 프로덕션이 제작해 2024-01-01 공개됐다.",
+    "commentary_src": "https://en.wikipedia.org/wiki/Fool_Me_Once_(TV_series)",
+    "points": [
+     "베이비캠에 찍힌 '죽은 남편'이라는 훅",
+     "미셸 키건 주연",
+     "2024-01-01 넷플릭스 공개",
+     "내 추천(직접 입력): 할런 코벤 작품: 비밀의 비밀(Fool Me Once)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q117005456",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Fool_Me_Once_(TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia에는 전미TV어워즈 후보 기록만 있고 수상은 확인되지 않았어요(2026-10-24)."
+   }
+  },
+  {
+   "k": "tt31019484",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt31019484",
+    "title": "Missing You",
+    "ko": "미싱 유",
+    "year": 2025,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt31019484/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81258639"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/mising-yu",
+    "src": [
+     "USER"
+    ],
+    "k": "tt31019484"
+   },
+   "details": {
+    "director": "원작 Harlan Coben(제작총괄) · 연출 확인 필요",
+    "cast": "Rosalind Eleazar, Richard Armitage, Marc Warren",
+    "awards": "확인 필요",
+    "country": "영국",
+    "length": "5편 · 41–46분",
+    "commentary": "10여 년 전 실종된 약혼자를 데이팅 앱에서 발견한 형사 캣 도노반의 이야기다. 코벤이 제작총괄로 참여한 넷플릭스 미니시리즈로 2025-01-01 공개됐다(5부작).",
+    "commentary_src": "https://en.wikipedia.org/wiki/Missing_You_(2025_TV_series)",
+    "points": [
+     "데이팅 앱에서 '실종 약혼자'를 발견",
+     "로절린드 엘리저·리처드 아미티지 출연",
+     "5부작 압축 구성",
+     "내 추천(직접 입력): 할런 코벤 작품: 미싱 유(Missing You)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q124795248",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Missing_You_(2025_TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt2201227",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt2201227",
+    "title": "Stay Close",
+    "ko": "스테이 클로즈",
+    "year": 2021,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt2201227/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81289581"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/stay-close",
+    "src": [
+     "USER"
+    ],
+    "k": "tt2201227"
+   },
+   "details": {
+    "director": "원작 Harlan Coben · 연출/각본 확인 필요",
+    "cast": "Cush Jumbo, James Nesbitt, Richard Armitage, Sarah Parish",
+    "awards": "확인 필요",
+    "country": "영국",
+    "length": "8편",
+    "commentary": "코벤의 2012년 소설을 각색한 영국 미스터리 드라마다(제작 Red Production Company). 교외에서 과거를 숨기고 사는 메건, 한때 촉망받던 다큐 사진가 레이, 오래된 실종 사건에 매달린 형사 마이클의 세 인물이 새 실종 사건을 계기로 얽힌다. 2021-12-31 넷플릭스 공개 (8부작).",
+    "commentary_src": "https://en.wikipedia.org/wiki/Stay_Close",
+    "points": [
+     "과거를 숨긴 교외 엄마·퇴락한 사진가·미해결 사건 형사의 3축 구조",
+     "캐시 점보·제임스 네스빗·리처드 아미티지 출연",
+     "코벤 소설 영국판 각색",
+     "내 추천(직접 입력): 할런 코벤 작품: 스테이 클로즈(Stay Close)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q105972947",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Stay_Close",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt1910645",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt1910645",
+    "title": "The Woods",
+    "ko": "숲 (입력명: 더 우즈)",
+    "year": 2020,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt1910645/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81108061"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/w-glebi-lasu",
+    "src": [
+     "USER"
+    ],
+    "k": "tt1910645"
+   },
+   "details": {
+    "director": "Harlan Coben(원작) · 연출 확인 필요",
+    "cast": "Grzegorz Damięcki, Agnieszka Grochowska (IMDb 표기)",
+    "awards": "확인 필요",
+    "country": "폴란드",
+    "length": "6편 · 46–55분",
+    "commentary": "코벤의 2007년 소설을 각색한 폴란드어 미스터리 스릴러(원제 W głębi lasu)다. 1994년 8월 여름 캠프에서 두 명이 살해되고 두 명(파웨우의 여동생 포함)이 사라진 사건과, 2019년 9월 자신에 관한 신문 스크랩을 지닌 살인 피해자의 신원 확인을 요청받은 바르샤바 검사 파웨우의 이야기를 오간다. 넷플릭스의 두 번째 폴란드어 시리즈로 2020-06-12 공개.",
+    "commentary_src": "https://en.wikipedia.org/wiki/The_Woods_(miniseries)",
+    "points": [
+     "1994년과 2019년을 오가는 이중 시간 구조",
+     "넷플릭스 폴란드어 시리즈",
+     "한국 제목 '숲' (입력명 '더 우즈')",
+     "내 추천(직접 입력): 할런 코벤 작품: 더 우즈(The Woods)",
+     "매핑 메모: 같은 제목의 영국 시리즈(The Woods, 2027 예정, tt43678327)도 있으나 2020 폴란드 시리즈(코벤 2007 소설 각색, 넷플릭스 한국 제목 '숲')로 매칭 — 확신 중간"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q85814101",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/The_Woods_(miniseries)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt14252964",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt14252964",
+    "title": "Gone for Good",
+    "ko": "영원히 사라지다",
+    "year": 2021,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt14252964/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81150793"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/disparu-a-jamais",
+    "src": [
+     "USER"
+    ],
+    "k": "tt14252964"
+   },
+   "details": {
+    "director": "David Elkaïm, Vincent Poymiro (크리에이터)",
+    "cast": "Finnegan Oldfield, Nicolas Duvauchelle, Guillaume Gouix",
+    "awards": "확인 필요",
+    "country": "프랑스",
+    "length": "5편",
+    "commentary": "코벤의 2002년 소설을 각색한 프랑스어 시리즈(원제 Disparu à jamais)다. 크리에이터 다비드 엘캠·뱅상 푸아미로가 각색했고 핀네건 올드필드·니콜라 뒤보셸·기욤 구아가 출연한다. 2021-08-13 넷플릭스 공개.",
+    "commentary_src": "https://en.wikipedia.org/wiki/Gone_for_Good_(TV_series)",
+    "points": [
+     "프랑스어 코벤 각색 시리즈",
+     "5부작",
+     "2021-08-13 넷플릭스 공개",
+     "내 추천(직접 입력): 할런 코벤 작품: 영원히 사라지다(Gone for Good)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q107773438",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Gone_for_Good_(TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt15019128",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt15019128",
+    "title": "Hold Tight",
+    "ko": "홀드타이트",
+    "year": 2022,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt15019128/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81335264"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/hold-tight",
+    "src": [
+     "USER"
+    ],
+    "k": "tt15019128"
+   },
+   "details": {
+    "director": "Harlan Coben(원작) · 연출 확인 필요",
+    "cast": "Magdalena Boczarska, Leszek Lichota, Krzysztof Oleksyn, Grzegorz Damięcki, Agata Łabno",
+    "awards": "확인 필요",
+    "country": "폴란드",
+    "length": "6편 · 42–53분",
+    "commentary": "코벤 소설을 각색한 폴란드 범죄 드라마(원제 Zachowaj spokój)다. 친구의 죽음 직후 18세 소년이 사라지면서 바르샤바 고급 주택단지가 발칵 뒤집힌다. 바르샤바 요새 안 Fort Cze 아파트호텔에서 촬영했다. 2022-04-22 넷플릭스 공개.",
+    "commentary_src": "https://en.wikipedia.org/wiki/Hold_Tight_(miniseries)",
+    "points": [
+     "친구의 죽음 직후 실종된 10대",
+     "바르샤바 고급 주택단지가 배경",
+     "한국 제목 '홀드타이트'",
+     "내 추천(직접 입력): 할런 코벤 작품: 홀드 타이트(Hold Tight)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q111728941",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Hold_Tight_(miniseries)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt10147644",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt10147644",
+    "title": "The Innocent",
+    "ko": "결백 (입력명: 이노센트)",
+    "year": 2021,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt10147644/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81036936"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/el-inocente",
+    "src": [
+     "USER"
+    ],
+    "k": "tt10147644"
+   },
+   "details": {
+    "director": "Oriol Paulo (연출 겸 각본: Oriol Paulo, Jordi Vallejo, Guillem Clua)",
+    "cast": "Mario Casas, Alexandra Jiménez, Aura Garrido, José Coronado",
+    "awards": "확인 필요",
+    "country": "스페인",
+    "length": "8편",
+    "commentary": "코벤 소설을 각색한 스페인어 미스터리 스릴러(원제 El inocente)다. 9년 전 싸움 중 사람을 죽게 한 마테오가 아내 올리비아와 새 출발을 하려던 순간 닥친 새 사건들로 삶이 다시 무너진다. 바르셀로나가 주 배경이며 카탈루냐 곳곳에서 촬영했다. 2021-04-30 공개, Rotten Tomatoes 100%(평론 7건 — Wikipedia).",
+    "commentary_src": "https://en.wikipedia.org/wiki/The_Innocent_(TV_series)",
+    "points": [
+     "오리올 파울로 연출",
+     "마리오 카사스 주연",
+     "바르셀로나·카탈루냐 로케이션",
+     "내 추천(직접 입력): 할런 코벤 작품: 이노센트(The Innocent)",
+     "매핑 메모: 동명 작품이 많아 IMDb ID로 확정(tt10147644, 스페인 시리즈 El inocente). 넷플릭스 한국 제목은 '결백' — 확신 높음"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q101137196",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/The_Innocent_(TV_series)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt30876484",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt30876484",
+    "title": "Just One Look",
+    "ko": "단 한번의 시선",
+    "year": 2025,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt30876484/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81664956"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/dan-hanbeonyi-siseon",
+    "src": [
+     "USER"
+    ],
+    "k": "tt30876484"
+   },
+   "details": {
+    "director": "Harlan Coben(원작) · 연출 Marek Lechki, Monika Filipowicz",
+    "cast": "Maria Dębska, Cezary Łukaszewicz, Piotr Stramowski",
+    "awards": "확인 필요",
+    "country": "폴란드",
+    "length": "6편",
+    "commentary": "코벤의 2004년 소설을 각색한 폴란드 범죄 스릴러(원제 Tylko jedno spojrzenie)다. 보석 디자이너가 남편이 실종된 뒤 모르는 사람들에 둘러싸인 남편 사진을 받고 진상을 쫓는다. ATM Grupa 제작, 연출 Marek Lechki·Monika Filipowicz. 2025-03-05 넷플릭스 공개.",
+    "commentary_src": "https://en.wikipedia.org/wiki/Just_One_Look_(miniseries)",
+    "points": [
+     "남편 사진 한 장에서 시작하는 추적",
+     "폴란드어 코벤 각색 시리즈",
+     "2025-03-05 넷플릭스 공개",
+     "내 추천(직접 입력): 할런 코벤 작품: 단 한 번의 시선(Just One Look)",
+     "매핑 메모: 같은 제목의 2017 프랑스 시리즈(tt6272384)도 있으나 JustWatch KR '단 한번의 시선'(Netflix)과 일치하는 2025 폴란드 시리즈로 매칭 — 확신 중간"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q132851528",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/Just_One_Look_(miniseries)",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt34771210",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt34771210",
+    "title": "I Will Find You",
+    "ko": "아이 윌 파인드 유",
+    "year": 2026,
+    "kind": "TV",
+    "genre": "범죄/스릴러",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt34771210/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/81509368"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/i-will-find-you",
+    "src": [
+     "USER"
+    ],
+    "k": "tt34771210"
+   },
+   "details": {
+    "director": "Robert Hull (크리에이터)",
+    "cast": "Sam Worthington, Britt Lower, Milo Ventimiglia, Erin Richards",
+    "awards": "확인 필요",
+    "country": "미국",
+    "length": "8편",
+    "commentary": "코벤의 2023년 소설을 각색한 미국 범죄 드라마 미니시리즈다. 아들 살해 누명으로 수감된 데이비드가 5년 뒤 전 처형 레이철로부터 아들이 아직 살아 있을지 모른다는 말을 듣는다. 2026-06-18 넷플릭스 공개.",
+    "commentary_src": "https://en.wikipedia.org/wiki/I_Will_Find_You",
+    "points": [
+     "누명과 사라진 아들",
+     "샘 워딩턴·브릿 로어 주연",
+     "2026-06-18 넷플릭스 공개",
+     "내 추천(직접 입력): 할런 코벤 작품: 아이 윌 파운드 유(I will find you)",
+     "매핑 메모: JustWatch KR 표기는 '아이 윌 파인드 유' (입력하신 '파운드'와 표기만 다름)"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q134412018",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/I_Will_Find_You",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt16275756",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt16275756",
+    "title": "The 13 Lords of the Shogun (鎌倉殿の13人)",
+    "ko": "가마쿠라도노의 13인",
+    "year": 2022,
+    "kind": "TV",
+    "genre": "역사/드라마",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt16275756/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/82747307"
+     },
+     {
+      "service": "Watcha",
+      "type": "구독",
+      "url": "https://watcha.com/contents/tEZAQKZ"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/gamakuradonoyi-13in",
+    "src": [
+     "USER"
+    ],
+    "k": "tt16275756"
+   },
+   "details": {
+    "director": "Teruyuki Yoshida 외 (각본: Kōki Mitani)",
+    "cast": "Shun Oguri, Yui Aragaki, Masaki Suda, Eiko Koike, Kentaro Sakaguchi",
+    "awards": "도쿄 드라마 어워즈 2023 주연상(오구리 슌)",
+    "country": "일본",
+    "length": "48편 · 45분",
+    "commentary": "NHK 61번째 대하드라마(타이가 드라마)로, 오구리 슌이 호조 요시토키를 연기한다. 각본의 미타니 고키는 요시토키와 『대부』의 마이클 콜레오네 사이의 유사점을 짚은 바 있다. 가마쿠라 막부 초기 권력투쟁을 호조 가문의 시선으로 풀어 간다.",
+    "commentary_src": "https://en.wikipedia.org/wiki/The_13_Lords_of_the_Shogun",
+    "points": [
+     "미타니 고키 각본의 NHK 대하드라마",
+     "오구리 슌 주연(도쿄 드라마 어워즈 주연상)",
+     "호조 가문의 권력투쟁",
+     "내 추천(직접 입력): 일본 사극: 가마쿠라도노의 13인"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q81412942",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/The_13_Lords_of_the_Shogun",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 수상 표 기준. 공식 사이트는 확인하지 못했어요."
+   }
+  },
+  {
+   "k": "tt16274666",
+   "tag": "USER",
+   "tag_label": "내 추천(직접 입력)",
+   "added": "2026-10-24",
+   "entry": {
+    "id": "tt16274666",
+    "title": "What Will You Do, Ieyasu? (どうする家康)",
+    "ko": "어떡할래 이에야스",
+    "year": 2023,
+    "kind": "TV",
+    "genre": "역사/드라마",
+    "m": 0,
+    "imdb": "https://www.imdb.com/title/tt16274666/",
+    "ott": [
+     {
+      "service": "Netflix",
+      "type": "구독",
+      "url": "https://www.netflix.com/title/82747198"
+     },
+     {
+      "service": "Watcha",
+      "type": "구독",
+      "url": "https://watcha.com/contents/tEoj6Wr"
+     }
+    ],
+    "st": "제공",
+    "jw": "https://www.justwatch.com/kr/TV-프로그램/eoddeoghalrae-ieyaseu",
+    "src": [
+     "USER"
+    ],
+    "k": "tt16274666"
+   },
+   "details": {
+    "director": "Naoki Murahashi 외 (각본: Ryota Kosawa)",
+    "cast": "Jun Matsumoto, Kasumi Arimura, Junichi Okada, Nanako Matsushima, Keiko Kitagawa",
+    "awards": "확인 필요",
+    "country": "일본",
+    "length": "48편 · 45분",
+    "commentary": "NHK 62번째 대하드라마로, 마쓰모토 준이 도쿠가와 이에야스를 연기한다. 전국시대의 위기마다 '어떡할래'를 되묻는 이에야스를 따라가는 구성이다. Wikipedia에 따르면 시청률은 역대 대하드라마 중 하위 2위였고, 이에야스를 소심하게 그린 점과 츠키야마도노를 동정적으로 그린 점이 전통적 이미지와 달라 고령층 반응이 좋지 않았다.",
+    "commentary_src": "https://en.wikipedia.org/wiki/What_Will_You_Do,_Ieyasu%3F",
+    "points": [
+     "NHK 62번째 대하드라마",
+     "마쓰모토 준 주연",
+     "전국시대 이에야스의 선택의 연속",
+     "내 추천(직접 입력): 일본 사극: 어떡할래 이에야스"
+    ],
+    "wikidata": "http://www.wikidata.org/entity/Q109359210",
+    "cast_src": "Wikipedia infobox starring / 본문 출연 표",
+    "award_notes": [],
+    "awards_src": "https://en.wikipedia.org/wiki/What_Will_You_Do,_Ieyasu%3F",
+    "awards_srcname": "Wikipedia",
+    "awards_label": "Wikipedia 문서에 수상 내역 확인 안 됨(2026-10-24). 공식 기록은 확인하지 못했어요."
+   }
+  }
+ ],
+ "tag_only": [
+  {
+   "k": "tt0804484",
+   "title": "Foundation",
+   "note": "기존 항목에 USER 태그만 추가"
+  }
+ ],
+ "note": "사용자가 직접 입력한 추천작. X 스레드 상태 JSON(geoffreyhuntley-*.json)과 분리됨."
+}
